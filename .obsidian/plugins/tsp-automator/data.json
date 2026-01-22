@@ -1,0 +1,25 @@
+{
+  "folderIndexMap": {
+    "01 Projects/Website Articles": "00 Website Articles Index",
+    "01 Projects/Social Media Threads": "00 Social Media Index",
+    "01 Projects/Books": "00 Books Index",
+    "02 Areas/Family": "00 Family Index",
+    "02 Areas/Ministry": "00 Ministry Index",
+    "02 Areas/Admin": "00 Admin Index",
+    "03 Resources/People": "00 People Index",
+    "03 Resources/Theology": "00 Theology Index",
+    "03 Resources/Philosophy": "00 Philosophy Index",
+    "03 Resources/Glossary": "00 Hebrew Word Studies Index",
+    "04 Archives/To Sort": "00 To Sort Index",
+    "04 Archives/Evernote Import": "00 Evernote Archive Index"
+  },
+  "folderTemplateMap": {
+    "01 Projects/Website Articles": "Templates/New Website Article.md",
+    "01 Projects/Social Media Threads": "Templates/New Social Thread.md",
+    "01 Projects/Books": "Templates/New Book Chapter.md",
+    "03 Resources/People": "Templates/New Person.md",
+    "03 Resources/Theology": "Templates/New Theology Note.md",
+    "03 Resources/Philosophy": "Templates/New Philosophy Note.md",
+    "03 Resources/Glossary": "Templates/New Hebrew Word.md"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"id": "tsp-automator",
+	"name": "TSP Automator",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automated Indexing and Templating for TSP Vault",
+	"author": "Trae AI",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

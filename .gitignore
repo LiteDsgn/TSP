@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/tsp-automator/node_modules/
+.trash/
+
+# Node
+node_modules/
