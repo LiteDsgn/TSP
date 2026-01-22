@@ -8,10 +8,10 @@ banner_icon: 🏛️
 > *"The Name of God is not a word you speak with your lips; it is the truth you carry in your veins."*
 
 ## � Resource Library
-- [[03 Resources/Theology/THEOLOGICAL GLOSSARY|The Dictionary of the Name]] (Main Index)
+- [[03 Resources/Glossary/00 The Seed Protocol Glossary Index|The Seed Protocol Glossary]] (Main Index)
 - [[03 Resources/Theology/00 Theology Index|Theological Concepts]]
 - [[03 Resources/Philosophy/00 Philosophy Index|Philosophy]]
-- [[03 Resources/Glossary/00 Hebrew Word Studies Index|Hebrew Word Studies]]
+- [[03 Resources/Theology/THEOLOGICAL GLOSSARY|The Dictionary of the Name]]
 - [[03 Resources/People/00 People Index|People & Authors]]
 
 ## �🚀 Active Projects

@@ -5,7 +5,7 @@
        Changed from -10px to -60px to pull content up by another ~50px.
        This should close the visual gap observed in the screenshot.
     */
-    margin-top: calc(var(--banner-height) - 100px) !important; 
+    margin-top: calc(var(--banner-height) - 150px) !important; 
     padding-top: 0px !important;
 }
 

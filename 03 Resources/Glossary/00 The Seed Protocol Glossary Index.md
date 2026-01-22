@@ -4,13 +4,14 @@ banner_y: 0.5
 banner_icon: 🔖
 ---
 
-# 📂 Hebrew Word Studies Index
+# 📂 The Seed Protocol Glossary Index
 
 **Location:** `03 Resources/Glossary`
 
 ---
 
 - [[ADAM]]
+- [[AIONIOS]]
 - [[ASHER]]
 - [[AYEKAH]]
 - [[BARA]]
@@ -19,7 +20,7 @@ banner_icon: 🔖
 - [[BRIA]]
 - [[CHATA]]
 - [[CHESED]]
-- [[CONCLUDING NOTES]]
+- [[CUSH]]
 - [[DA'AT]]
 - [[DABAR]]
 - [[DAM]]
@@ -31,9 +32,14 @@ banner_icon: 🔖
 - [[ETZ]]
 - [[EVED]]
 - [[EZER]]
+- [[GAN]]
 - [[GEVURAH]]
+- [[GIHON]]
+- [[GINOSKO]]
 - [[HASHEM]]
 - [[HAVEL]]
+- [[HAVILAH]]
+- [[HIDDEKEL]]
 - [[HOMOLOGEO]]
 - [[KADOSH]]
 - [[KARATH]]
@@ -41,19 +47,27 @@ banner_icon: 🔖
 - [[KELI]]
 - [[KENEGDO]]
 - [[KERUVIM]]
+- [[KOLASIS]]
+- [[KRINO]]
+- [[KRISIS]]
 - [[LAHAT]]
 - [[LOGOS]]
 - [[MAVET]]
 - [[MENUHA]]
 - [[NACHASH]]
 - [[NASHA]]
+- [[NATA]]
 - [[NEQEBAH]]
 - [[NIGLEH]]
 - [[OLAM]]
+- [[OLETHROS]]
 - [[PANIM]]
 - [[PARAKLETOS]]
+- [[PERAT - EUPHRATES]]
 - [[PHANEROO]]
+- [[PISHON]]
 - [[QAL]]
+- [[QEDEM]]
 - [[RA]]
 - [[RACHAMIM]]
 - [[RECHEM]]
@@ -73,6 +87,7 @@ banner_icon: 🔖
 - [[YARAH]]
 - [[YASHA]]
 - [[YESH]]
+- [[YIRAH]]
 - [[ZAKAR]]
 - [[ZERA]]
 
