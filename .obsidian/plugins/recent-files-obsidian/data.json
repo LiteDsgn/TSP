@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "New Glossary entries",
+      "path": "TSP Glossary/New Glossary entries.md"
+    },
+    {
       "basename": "Home Dashboard",
       "path": "00 Dashboard/Home Dashboard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PARAKLETOS",
       "path": "03 Resources/Glossary/PARAKLETOS.md"
-    },
-    {
-      "basename": "LOGOS",
-      "path": "03 Resources/Glossary/LOGOS.md"
     }
   ],
   "omittedPaths": [],
