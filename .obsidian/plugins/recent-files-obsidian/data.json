@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Theology Index",
+      "path": "03 Resources/Theology/00 Theology Index.md"
+    },
+    {
+      "basename": "00 People Index",
+      "path": "03 Resources/People/00 People Index.md"
+    },
+    {
       "basename": "00 Family Index",
       "path": "02 Areas/Family/00 Family Index.md"
+    },
+    {
+      "basename": "00 Admin Index",
+      "path": "02 Areas/Admin/00 Admin Index.md"
+    },
+    {
+      "basename": "00 Books Index",
+      "path": "01 Projects/Books/00 Books Index.md"
+    },
+    {
+      "basename": "Home Dashboard",
+      "path": "00 Dashboard/Home Dashboard.md"
+    },
+    {
+      "basename": "The Epistle of the Name A Letter to the Sprouting Church (2)",
+      "path": "01 Projects/Books/The Epistle of the Name A Letter to the Sprouting Church (2).md"
+    },
+    {
+      "basename": "Andre Rabe",
+      "path": "03 Resources/People/Andre Rabe.md"
+    },
+    {
+      "basename": "default_banner",
+      "path": "Assets/banners/default_banner.jpg"
     },
     {
       "basename": "To my Daughter, JỌLÚYÈ APATA",
       "path": "02 Areas/Family/To my Daughter, JỌLÚYÈ APATA.md"
     },
     {
-      "basename": "To my Son, Joluyi Apata",
-      "path": "02 Areas/Family/To my Son, Joluyi Apata.md"
+      "basename": "The Epistle of the Name Comprehensive Writing Instructions",
+      "path": "01 Projects/Books/The Epistle of the Name Comprehensive Writing Instructions.md"
     },
     {
-      "basename": "00 Admin Index",
-      "path": "02 Areas/Admin/00 Admin Index.md"
+      "basename": "To my Son, Joluyi Apata",
+      "path": "02 Areas/Family/To my Son, Joluyi Apata.md"
     },
     {
       "basename": "00 To Sort Index",
@@ -29,16 +61,8 @@
       "path": "04 Archives/Evernote Import/00 Evernote Archive Index.md"
     },
     {
-      "basename": "00 Theology Index",
-      "path": "03 Resources/Theology/00 Theology Index.md"
-    },
-    {
       "basename": "00 Hebrew Word Studies Index",
       "path": "03 Resources/Glossary/00 Hebrew Word Studies Index.md"
-    },
-    {
-      "basename": "Home Dashboard",
-      "path": "00 Dashboard/Home Dashboard.md"
     },
     {
       "basename": "00 Philosophy Index",
@@ -55,10 +79,6 @@
     {
       "basename": "KELI",
       "path": "03 Resources/Glossary/KELI.md"
-    },
-    {
-      "basename": "00 Books Index",
-      "path": "01 Projects/Books/00 Books Index.md"
     },
     {
       "basename": "Evernote_index",
@@ -179,26 +199,6 @@
     {
       "basename": "LOGOS",
       "path": "03 Resources/Glossary/LOGOS.md"
-    },
-    {
-      "basename": "HASHEM",
-      "path": "03 Resources/Glossary/HASHEM.md"
-    },
-    {
-      "basename": "ECHAD",
-      "path": "03 Resources/Glossary/ECHAD.md"
-    },
-    {
-      "basename": "DAM",
-      "path": "03 Resources/Glossary/DAM.md"
-    },
-    {
-      "basename": "AYEKAH",
-      "path": "03 Resources/Glossary/AYEKAH.md"
-    },
-    {
-      "basename": "KERUVIM",
-      "path": "03 Resources/Glossary/KERUVIM.md"
     }
   ],
   "omittedPaths": [],

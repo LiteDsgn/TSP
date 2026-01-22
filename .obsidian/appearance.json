@@ -2,5 +2,8 @@
   "interfaceFontFamily": "Figtree",
   "textFontFamily": "Figtree",
   "monospaceFontFamily": "Liberation Mono",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "banner-tweaks"
+  ]
 }

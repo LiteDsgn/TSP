@@ -1,0 +1,37 @@
+/* Adjust banner wrapper to reduce gap for content */
+.obsidian-banner-wrapper {
+    /* 
+       Significantly reduce the gap.
+       Changed from -10px to -60px to pull content up by another ~50px.
+       This should close the visual gap observed in the screenshot.
+    */
+    margin-top: calc(var(--banner-height) - 100px) !important; 
+    padding-top: 0px !important;
+}
+
+/* Position icon to overlap the banner using absolute positioning */
+.obsidian-banner-icon {
+    position: absolute !important;
+    /* 
+       Icon is ~4em tall (~64px). 
+       Top at banner-height - 45px means ~20px sticks out.
+    */
+    top: calc(var(--banner-height) - 45px) !important;
+    z-index: 20 !important; /* Ensure icon sits above the banner image */
+    margin: 0 !important;
+    width: auto !important;
+    height: auto !important;
+    
+    /* Optional: Add a subtle text shadow or filter to make it stand out against any background */
+    filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.3));
+}
+
+/* Ensure title doesn't overlap with the icon if the icon sticks out */
+.obsidian-banner-wrapper .markdown-preview-section > div:first-child h1,
+.obsidian-banner-wrapper .markdown-source-view .cm-line:first-child .cm-header-1 {
+    margin-top: 0 !important;
+    /* 
+       If the title gets too close to the icon, we might need padding.
+       For now, we just ensure no extra margin pushes it down.
+    */
+}
