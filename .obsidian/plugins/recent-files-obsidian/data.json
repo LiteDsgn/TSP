@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Theology Index",
-      "path": "03 Resources/Theology/00 Theology Index.md"
+      "basename": "Home Dashboard",
+      "path": "00 Dashboard/Home Dashboard.md"
     },
     {
-      "basename": "00 People Index",
-      "path": "03 Resources/People/00 People Index.md"
+      "basename": "To my Daughter, JỌLÚYÈ APATA",
+      "path": "02 Areas/Family/To my Daughter, JỌLÚYÈ APATA.md"
     },
     {
       "basename": "00 Family Index",
       "path": "02 Areas/Family/00 Family Index.md"
     },
     {
-      "basename": "00 Admin Index",
-      "path": "02 Areas/Admin/00 Admin Index.md"
+      "basename": "To my Son, Joluyi Apata",
+      "path": "02 Areas/Family/To my Son, Joluyi Apata.md"
+    },
+    {
+      "basename": "KADOSH",
+      "path": "03 Resources/Glossary/KADOSH.md"
     },
     {
       "basename": "00 Books Index",
       "path": "01 Projects/Books/00 Books Index.md"
     },
     {
-      "basename": "Home Dashboard",
-      "path": "00 Dashboard/Home Dashboard.md"
+      "basename": "00 Admin Index",
+      "path": "02 Areas/Admin/00 Admin Index.md"
+    },
+    {
+      "basename": "00 Theology Index",
+      "path": "03 Resources/Theology/00 Theology Index.md"
+    },
+    {
+      "basename": "00 People Index",
+      "path": "03 Resources/People/00 People Index.md"
     },
     {
       "basename": "The Epistle of the Name A Letter to the Sprouting Church (2)",
@@ -37,16 +49,8 @@
       "path": "Assets/banners/default_banner.jpg"
     },
     {
-      "basename": "To my Daughter, JỌLÚYÈ APATA",
-      "path": "02 Areas/Family/To my Daughter, JỌLÚYÈ APATA.md"
-    },
-    {
       "basename": "The Epistle of the Name Comprehensive Writing Instructions",
       "path": "01 Projects/Books/The Epistle of the Name Comprehensive Writing Instructions.md"
-    },
-    {
-      "basename": "To my Son, Joluyi Apata",
-      "path": "02 Areas/Family/To my Son, Joluyi Apata.md"
     },
     {
       "basename": "00 To Sort Index",
@@ -135,10 +139,6 @@
     {
       "basename": "Contradiction  Paradox",
       "path": "03 Resources/Theology/Contradiction  Paradox.md"
-    },
-    {
-      "basename": "KADOSH",
-      "path": "03 Resources/Glossary/KADOSH.md"
     },
     {
       "basename": "KARATH",

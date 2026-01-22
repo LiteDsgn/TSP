@@ -6,8 +6,6 @@ tags:
   - family
   - personal
 ---
-# To my Daughter, JỌLÚYÈ APATA
-
 Theme: The Manifestation of Life and Breath.
 
 ---

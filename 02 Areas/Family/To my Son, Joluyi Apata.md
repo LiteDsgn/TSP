@@ -6,8 +6,6 @@ tags:
   - family
   - personal
 ---
-# To my Son, Joluyi Apata
-
 Theme: The Restoration of Weight and Glory.
 
 ---
