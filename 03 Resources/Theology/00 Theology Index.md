@@ -10,6 +10,7 @@ banner_icon: 🔖
 
 ---
 
+- [[2 Cor 4 - Treasure in Jars of Clay]]
 - [[Contradiction  Paradox]]
 - [[Decending and Ascending Truths]]
 - [[Dictionary of the Name]]
@@ -22,8 +23,10 @@ banner_icon: 🔖
 - [[Hebrew Experience, Greek Connection]]
 - [[Justice + Love]]
 - [[Logic vs. Systems Theory]]
+- [[NACHASH UNVEILED]]
 - [[No Dichotomy]]
 - [[No manual]]
+- [[On God Planting Himself]]
 - [[Operation of God - Part 1]]
 - [[Salvation is of the Lord - Part 1]]
 - [[Salvation is of the Lord - Part 2]]
@@ -37,6 +40,7 @@ banner_icon: 🔖
 - [[THE ETERNAL COVENANT MANIFESTATION, NOT TRANSACTION]]
 - [[THE ETERNAL MANIFESTATION We Were Always In The Flesh]]
 - [[The Faith, that is Realization]]
+- [[The God of the Hallucination]]
 - [[The House of the Head A Manifesto on the Yesh-Echad Monoergetic Framework]]
 - [[The Messianic Typology]]
 - [[The Name in the Blood Awakening from the Illusion of Separation]]
