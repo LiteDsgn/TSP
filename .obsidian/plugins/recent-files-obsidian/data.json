@@ -5,6 +5,18 @@
       "path": "00 Dashboard/Home Dashboard.md"
     },
     {
+      "basename": "00 Family Index",
+      "path": "02 Areas/Family/00 Family Index.md"
+    },
+    {
+      "basename": "To my Son, Joluyi Apata",
+      "path": "02 Areas/Family/To my Son, Joluyi Apata.md"
+    },
+    {
+      "basename": "To my Daughter, JỌLÚYÈ APATA",
+      "path": "02 Areas/Family/To my Daughter, JỌLÚYÈ APATA.md"
+    },
+    {
       "basename": "SHUV",
       "path": "03 Resources/Glossary/SHUV.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "00 Social Media Index",
       "path": "01 Projects/Social Media Threads/00 Social Media Index.md"
-    },
-    {
-      "basename": "To my Daughter, JỌLÚYÈ APATA.html",
-      "path": "To my Daughter, JỌLÚYÈ APATA.html.md"
     },
     {
       "basename": "default_banner",
@@ -191,14 +199,6 @@
     {
       "basename": "Dimensionality & Sovereignty of God",
       "path": "01 Projects/Website Articles/Dimensionality & Sovereignty of God.md"
-    },
-    {
-      "basename": "Faith",
-      "path": "01 Projects/Website Articles/Faith.md"
-    },
-    {
-      "basename": "Design is life",
-      "path": "01 Projects/Website Articles/Design is life.md"
     }
   ],
   "omittedPaths": [],
