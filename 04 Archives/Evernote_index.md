@@ -2,93 +2,94 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
- 
 
-# Index
+# Evernote Archive Database
 
-- [THEOLOGICAL GLOSSARY](THEOLOGICAL%20GLOSSARY.html)
-- [Untitled](Untitled.html)
-- [The Epistle of the Name: Comprehensive Writing Instructions](The%20Epistle%20of%20the%20Name%20Comprehensive%20Writing%20Instructions.html)
-- [The Epistle of the Name: A Letter to the Sprouting Church](The%20Epistle%20of%20the%20Name%20A%20Letter%20to%20the%20Sprouting%20Church.html)
-- [Untitled](Untitled%20\(1\).html)
-- [Unveiling Christ in the Grammar of God](Unveiling%20Christ%20in%20the%20Grammar%20of%20God.html)
-- [Untitled](Untitled%20\(2\).html)
-- [The Epistle of the Name: Writing Instructions & Standards](The%20Epistle%20of%20the%20Name%20Writing%20Instructions%20&%20Standards.html)
-- [The Epistle of the Name: A Letter to the Sprouting Church](The%20Epistle%20of%20the%20Name%20A%20Letter%20to%20the%20Sprouting%20Church%20\(1\).html)
-- [The Epistle of the Name: A Letter to the Sprouting Church](The%20Epistle%20of%20the%20Name%20A%20Letter%20to%20the%20Sprouting%20Church%20\(2\).html)
-- [THE ETERNAL COVENANT: MANIFESTATION, NOT TRANSACTION](THE%20ETERNAL%20COVENANT%20MANIFESTATION,%20NOT%20TRANSACTION.html)
-- [The Method: How We Actually Know This](The%20Method%20How%20We%20Actually%20Know%20This.html)
-- [About Page](About%20Page.html)
-- [Homepage Story](Homepage%20Story.html)
-- [THE NAME IS A WORLD](THE%20NAME%20IS%20A%20WORLD.html)
-- [PURPOSE, PRESSURE & PROGRESS](PURPOSE,%20PRESSURE%20&%20PROGRESS.html)
-- [PURPOSE, PRESSURE & PROGRESS](PURPOSE,%20PRESSURE%20&%20PROGRESS%20\(1\).html)
-- [THE ARCHITECTURE OF IDENTITY](THE%20ARCHITECTURE%20OF%20IDENTITY.html)
-- [THE SCANDAL OF ONENESS: A MANIFESTO FOR THE DIVINE HUMAN](THE%20SCANDAL%20OF%20ONENESS%20A%20MANIFESTO%20FOR%20THE%20DIVINE%20HUMAN.html)
-- [THE SUPRA-LOGICAL GOD: A THEOLOGICAL SYNTHESIS](THE%20SUPRA-LOGICAL%20GOD%20A%20THEOLOGICAL%20SYNTHESIS.html)
-- [Scarlet Thread of Redemption.](Scarlet%20Thread%20of%20Redemption..html)
-- [Glossary Summary](Glossary%20Summary.html)
-- [Technical Schematics Manual for a Biological Temple.](Technical%20Schematics%20Manual%20for%20a%20Biological%20Temple..html)
-- [WHEN GOD SPEAKS: The [[TORAH|Torah]] of Identity and the Mirror of the Infinite](WHEN%20GOD%20SPEAKS%20The%20Torah%20of%20Identity%20and%20the%20Mirror%20of%20the%20Infinite.html)
-- [The Name in the Dust: Awakening to the Eternal Plan](The%20Name%20in%20the%20Dust%20Awakening%20to%20the%20Eternal%20Plan.html)
-- [The Name in the Blood: Awakening from the Illusion of Separation](The%20Name%20in%20the%20Blood%20Awakening%20from%20the%20Illusion%20of%20Separation.html)
-- [The House of the Head: A Manifesto on the [[YESH|Yesh]]-[[ECHAD|Echad]] Monoergetic Framework](The%20House%20of%20the%20Head%20A%20Manifesto%20on%20the%20Yesh-Echad%20Monoergetic%20Framework.html)
-- [The Only Reality: Rediscovering God Through the Yesh-Echad Monoergetic Framework](The%20Only%20Reality%20Rediscovering%20God%20Through%20the%20Yesh-Echad%20Monoergetic%20Framework.html)
-- [Emanated Manifestation of Creation](Emanated%20Manifestation%20of%20Creation.html)
-- [To my Son, Joluyi Apata](To%20my%20Son,%20Joluyi%20Apata.html)
-- [To my Daughter, JỌLÚYÈ APATA](To%20my%20Daughter,%20JỌLÚYÈ%20APATA.html)
-- [Ha-[[SATAN|Satan]] - Part 2](Ha-Satan%20-%20Part%202.html)
-- [Ha-Satan](Ha-Satan.html)
-- [Unified Field Theory of Redemption](Unified%20Field%20Theory%20of%20Redemption.html)
-- [The Messianic Typology](The%20Messianic%20Typology.html)
-- [THE ETERNAL MANIFESTATION: We Were Always In The Flesh](THE%20ETERNAL%20MANIFESTATION%20We%20Were%20Always%20In%20The%20Flesh.html)
-- [THE VISION OF ONENESS: Becoming the Manifested Name](THE%20VISION%20OF%20ONENESS%20Becoming%20the%20Manifested%20Name.html)
-- [THE CIRCULAR VISION: How the Patriarchs Saw "The Name That Saves"](THE%20CIRCULAR%20VISION%20How%20the%20Patriarchs%20Saw%20The%20Name%20That%20Saves.html)
-- [The theological threads of Christ](The%20theological%20threads%20of%20Christ.html)
-- [Operation of God - Part 1](Operation%20of%20God%20-%20Part%201.html)
-- [Dictionary of the Name](Dictionary%20of%20the%20Name.html)
-- [The Collective Covenant](The%20Collective%20Covenant.html)
-- [The Name That Saves: An Awakening to the Reality of God](The%20Name%20That%20Saves%20An%20Awakening%20to%20the%20Reality%20of%20God.html)
-- [The Faith, that is Realization.](The%20Faith,%20that%20is%20Realization..html)
-- [Salvation is of the Lord - Part 3](Salvation%20is%20of%20the%20Lord%20-%20Part%203.html)
-- [Salvation is of the Lord - Part 2](Salvation%20is%20of%20the%20Lord%20-%20Part%202.html)
-- [Salvation is of the Lord - Part 1](Salvation%20is%20of%20the%20Lord%20-%20Part%201.html)
-- [The Name that became Flesh](The%20Name%20that%20became%20Flesh.html)
-- [The Name of God - Part 1](The%20Name%20of%20God%20-%20Part%201.html)
-- [Justice + Love](Justice%20+%20Love.html)
-- [Hebrew and Greek Perspective](Hebrew%20and%20Greek%20Perspective.html)
-- ["Greater" is not "Better"](Greater%20is%20not%20Better.html)
-- ["Role" vs "Nature"](Role%20vs%20Nature.html)
-- [The "Vice-Regent" who is Yahweh](The%20Vice-Regent%20who%20is%20Yahweh.html)
-- [The Book of Daniel](The%20Book%20of%20Daniel.html)
-- [That's just Hellenistic High Christology](That's%20just%20Hellenistic%20High%20Christology.html)
-- [Hebrew Experience, Greek Connection.](Hebrew%20Experience,%20Greek%20Connection..html)
-- [The Ontological Son of God](The%20Ontological%20Son%20of%20God.html)
-- [Title: Unearthing the Divine Gift: A Look at Ephesians 2:8](Title%20Unearthing%20the%20Divine%20Gift%20A%20Look%20at%20Ephesians%2028.html)
-- [The Power of Divine Faith: God's Belief and Our Salvation](The%20Power%20of%20Divine%20Faith%20God's%20Belief%20and%20Our%20Salvation.html)
-- [Where do thoughts come from?](Where%20do%20thoughts%20come%20from.html)
-- [The Power of One Life: Understanding the Bible Through the Lens of [[ADAM|Adam]]](The%20Power%20of%20One%20Life%20Understanding%20the%20Bible%20Through%20the%20Lens%20of%20Adam.html)
-- [Pastor Femi on Sin and the Believer](Pastor%20Femi%20on%20Sin%20and%20the%20Believer.html)
-- [The Divine Equation: How 'e=mc^2' Reflects the Unity of All Things.](The%20Divine%20Equation%20How%20'e=mc^2'%20Reflects%20the%20Unity%20of%20All%20Things..html)
-- [The Path to Radiant Living: A Journey to Love](The%20Path%20to%20Radiant%20Living%20A%20Journey%20to%20Love.html)
-- [Design is life.](Design%20is%20life..html)
-- [Faith](Faith.html)
-- [No manual](No%20manual.html)
-- [The Mirror](The%20Mirror.html)
-- [Andre Rabe](Andre%20Rabe.html)
-- [Voice of Scripture](Voice%20of%20Scripture.html)
-- [Known before the Ages](Known%20before%20the%20Ages.html)
-- [God's Idea](God's%20Idea.html)
-- [The Economy of God](The%20Economy%20of%20God.html)
-- [Francois Du Toit](Francois%20Du%20Toit.html)
-- [Extreme Love](Extreme%20Love.html)
-- [There is no difference](There%20is%20no%20difference.html)
-- [preachers...](preachers....html)
-- [angered critics](angered%20critics.html)
-- [Fiery Passion: The Love of EL](Fiery%20Passion%20The%20Love%20of%20EL.html)
-- [Song by Mario](Song%20by%20Mario.html)
-- [Nathaniel Bassey](Nathaniel%20Bassey.html)
-- [1. John 10:10](1.%20John%201010.html)
-- [Saints community (day 1)](Saints%20community%20\(day%201\).html)
-- [Telegraphic reading...](Telegraphic%20reading....html)
-- [Pastor Femi on Salvation - Twitter](Pastor%20Femi%20on%20Salvation%20-%20Twitter.html)
+| Title | Link | Category | Status |
+|---|---|---|---|
+| THEOLOGICAL GLOSSARY | [[THEOLOGICAL GLOSSARY]] | | Unprocessed |
+| Untitled | [[Untitled]] | | Unprocessed |
+| The Epistle of the Name: Comprehensive Writing Instructions | [[The Epistle of the Name Comprehensive Writing Instructions]] | | Unprocessed |
+| The Epistle of the Name: A Letter to the Sprouting Church | [[The Epistle of the Name A Letter to the Sprouting Church]] | | Unprocessed |
+| Untitled | [[Untitled (1)]] | | Unprocessed |
+| Unveiling Christ in the Grammar of God | [[Unveiling Christ in the Grammar of God]] | | Unprocessed |
+| Untitled | [[Untitled (2)]] | | Unprocessed |
+| The Epistle of the Name: Writing Instructions & Standards | [[The Epistle of the Name Writing Instructions & Standards]] | | Unprocessed |
+| The Epistle of the Name: A Letter to the Sprouting Church | [[The Epistle of the Name A Letter to the Sprouting Church (1)]] | | Unprocessed |
+| The Epistle of the Name: A Letter to the Sprouting Church | [[The Epistle of the Name A Letter to the Sprouting Church (2)]] | | Unprocessed |
+| THE ETERNAL COVENANT: MANIFESTATION, NOT TRANSACTION | [[THE ETERNAL COVENANT MANIFESTATION, NOT TRANSACTION]] | | Unprocessed |
+| The Method: How We Actually Know This | [[The Method How We Actually Know This]] | | Unprocessed |
+| About Page | [[About Page]] | | Unprocessed |
+| Homepage Story | [[Homepage Story]] | | Unprocessed |
+| THE NAME IS A WORLD | [[THE NAME IS A WORLD]] | | Unprocessed |
+| PURPOSE, PRESSURE & PROGRESS | [[PURPOSE, PRESSURE & PROGRESS]] | | Unprocessed |
+| PURPOSE, PRESSURE & PROGRESS | [[PURPOSE, PRESSURE & PROGRESS (1)]] | | Unprocessed |
+| THE ARCHITECTURE OF IDENTITY | [[THE ARCHITECTURE OF IDENTITY]] | | Unprocessed |
+| THE SCANDAL OF ONENESS: A MANIFESTO FOR THE DIVINE HUMAN | [[THE SCANDAL OF ONENESS A MANIFESTO FOR THE DIVINE HUMAN]] | | Unprocessed |
+| THE SUPRA-LOGICAL GOD: A THEOLOGICAL SYNTHESIS | [[THE SUPRA-LOGICAL GOD A THEOLOGICAL SYNTHESIS]] | | Unprocessed |
+| Scarlet Thread of Redemption. | [[Scarlet Thread of Redemption]] | | Unprocessed |
+| Glossary Summary | [[Glossary Summary]] | | Unprocessed |
+| Technical Schematics Manual for a Biological Temple. | [[Technical Schematics Manual for a Biological Temple]] | | Unprocessed |
+| WHEN GOD SPEAKS: The [[TORAH\|Torah]] of Identity and the Mirror of the Infinite | [[WHEN GOD SPEAKS The Torah of Identity and the Mirror of the Infinite]] | | Unprocessed |
+| The Name in the Dust: Awakening to the Eternal Plan | [[The Name in the Dust Awakening to the Eternal Plan]] | | Unprocessed |
+| The Name in the Blood: Awakening from the Illusion of Separation | [[The Name in the Blood Awakening from the Illusion of Separation]] | | Unprocessed |
+| The House of the Head: A Manifesto on the [[YESH\|Yesh]]-[[ECHAD\|Echad]] Monoergetic Framework | [[The House of the Head A Manifesto on the Yesh-Echad Monoergetic Framework]] | | Unprocessed |
+| The Only Reality: Rediscovering God Through the Yesh-Echad Monoergetic Framework | [[The Only Reality Rediscovering God Through the Yesh-Echad Monoergetic Framework]] | | Unprocessed |
+| Emanated Manifestation of Creation | [[Emanated Manifestation of Creation]] | | Unprocessed |
+| To my Son, Joluyi Apata | [[To my Son, Joluyi Apata]] | | Unprocessed |
+| To my Daughter, JỌLÚYÈ APATA | [[To my Daughter, JỌLÚYÈ APATA]] | | Unprocessed |
+| Ha-[[SATAN\|Satan]] - Part 2 | [[Ha-Satan - Part 2]] | | Unprocessed |
+| Ha-Satan | [[Ha-Satan]] | | Unprocessed |
+| Unified Field Theory of Redemption | [[Unified Field Theory of Redemption]] | | Unprocessed |
+| The Messianic Typology | [[The Messianic Typology]] | | Unprocessed |
+| THE ETERNAL MANIFESTATION: We Were Always In The Flesh | [[THE ETERNAL MANIFESTATION We Were Always In The Flesh]] | | Unprocessed |
+| THE VISION OF ONENESS: Becoming the Manifested Name | [[THE VISION OF ONENESS Becoming the Manifested Name]] | | Unprocessed |
+| THE CIRCULAR VISION: How the Patriarchs Saw "The Name That Saves" | [[THE CIRCULAR VISION How the Patriarchs Saw The Name That Saves]] | | Unprocessed |
+| The theological threads of Christ | [[The theological threads of Christ]] | | Unprocessed |
+| Operation of God - Part 1 | [[Operation of God - Part 1]] | | Unprocessed |
+| Dictionary of the Name | [[Dictionary of the Name]] | | Unprocessed |
+| The Collective Covenant | [[The Collective Covenant]] | | Unprocessed |
+| The Name That Saves: An Awakening to the Reality of God | [[The Name That Saves An Awakening to the Reality of God]] | | Unprocessed |
+| The Faith, that is Realization. | [[The Faith, that is Realization]] | | Unprocessed |
+| Salvation is of the Lord - Part 3 | [[Salvation is of the Lord - Part 3]] | | Unprocessed |
+| Salvation is of the Lord - Part 2 | [[Salvation is of the Lord - Part 2]] | | Unprocessed |
+| Salvation is of the Lord - Part 1 | [[Salvation is of the Lord - Part 1]] | | Unprocessed |
+| The Name that became Flesh | [[The Name that became Flesh]] | | Unprocessed |
+| The Name of God - Part 1 | [[The Name of God - Part 1]] | | Unprocessed |
+| Justice + Love | [[Justice + Love]] | | Unprocessed |
+| Hebrew and Greek Perspective | [[Hebrew and Greek Perspective]] | | Unprocessed |
+| "Greater" is not "Better" | [[Greater is not Better]] | | Unprocessed |
+| "Role" vs "Nature" | [[Role vs Nature]] | | Unprocessed |
+| The "Vice-Regent" who is Yahweh | [[The Vice-Regent who is Yahweh]] | | Unprocessed |
+| The Book of Daniel | [[The Book of Daniel]] | | Unprocessed |
+| That's just Hellenistic High Christology | [[That's just Hellenistic High Christology]] | | Unprocessed |
+| Hebrew Experience, Greek Connection. | [[Hebrew Experience, Greek Connection]] | | Unprocessed |
+| The Ontological Son of God | [[The Ontological Son of God]] | | Unprocessed |
+| Title: Unearthing the Divine Gift: A Look at Ephesians 2:8 | [[Title Unearthing the Divine Gift A Look at Ephesians 28]] | | Unprocessed |
+| The Power of Divine Faith: God's Belief and Our Salvation | [[The Power of Divine Faith God's Belief and Our Salvation]] | | Unprocessed |
+| Where do thoughts come from? | [[Where do thoughts come from]] | | Unprocessed |
+| The Power of One Life: Understanding the Bible Through the Lens of [[ADAM\|Adam]] | [[The Power of One Life Understanding the Bible Through the Lens of Adam]] | | Unprocessed |
+| Pastor Femi on Sin and the Believer | [[Pastor Femi on Sin and the Believer]] | | Unprocessed |
+| The Divine Equation: How 'e=mc^2' Reflects the Unity of All Things. | [[The Divine Equation How 'e=mc2' Reflects the Unity of All Things]] | | Unprocessed |
+| The Path to Radiant Living: A Journey to Love | [[The Path to Radiant Living A Journey to Love]] | | Unprocessed |
+| Design is life. | [[Design is life]] | | Unprocessed |
+| Faith | [[Faith]] | | Unprocessed |
+| No manual | [[No manual]] | | Unprocessed |
+| The Mirror | [[The Mirror]] | | Unprocessed |
+| Andre Rabe | [[Andre Rabe]] | | Unprocessed |
+| Voice of Scripture | [[Voice of Scripture]] | | Unprocessed |
+| Known before the Ages | [[Known before the Ages]] | | Unprocessed |
+| God's Idea | [[God's Idea]] | | Unprocessed |
+| The Economy of God | [[The Economy of God]] | | Unprocessed |
+| Francois Du Toit | [[Francois Du Toit]] | | Unprocessed |
+| Extreme Love | [[Extreme Love]] | | Unprocessed |
+| There is no difference | [[There is no difference]] | | Unprocessed |
+| preachers... | [[preachers]] | | Unprocessed |
+| angered critics | [[angered critics]] | | Unprocessed |
+| Fiery Passion: The Love of EL | [[Fiery Passion The Love of EL]] | | Unprocessed |
+| Song by Mario | [[Song by Mario]] | | Unprocessed |
+| Nathaniel Bassey | [[Nathaniel Bassey]] | | Unprocessed |
+| 1. John 10:10 | [[1. John 1010]] | | Unprocessed |
+| Saints community (day 1) | [[Saints community (day 1)]] | | Unprocessed |
+| Telegraphic reading... | [[Telegraphic reading]] | | Unprocessed |
+| Pastor Femi on Salvation - Twitter | [[Pastor Femi on Salvation - Twitter]] | | Unprocessed |
