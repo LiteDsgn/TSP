@@ -5,6 +5,42 @@
       "path": "00 Dashboard/Home Dashboard.md"
     },
     {
+      "basename": "Evernote_index",
+      "path": "04 Archives/Evernote_index.md"
+    },
+    {
+      "basename": "could_you_please_summarize_this_note_for_me_in_one@20260125_022219",
+      "path": "copilot/copilot-conversations/could_you_please_summarize_this_note_for_me_in_one@20260125_022219.md"
+    },
+    {
+      "basename": "Could_you_give_me_a_quick_recap_of_this_note@20260125_001558",
+      "path": "copilot/copilot-conversations/Could_you_give_me_a_quick_recap_of_this_note@20260125_001558.md"
+    },
+    {
+      "basename": "could_you_summarize_this_note_for_me_in_one_paragraph@20260125_022623",
+      "path": "copilot/copilot-conversations/could_you_summarize_this_note_for_me_in_one_paragraph@20260125_022623.md"
+    },
+    {
+      "basename": "could_you_summarize_this_note_in_one_paragraph_please@20260125_022420",
+      "path": "copilot/copilot-conversations/could_you_summarize_this_note_in_one_paragraph_please@20260125_022420.md"
+    },
+    {
+      "basename": "Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_073645",
+      "path": "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_073645.md"
+    },
+    {
+      "basename": "Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_074311",
+      "path": "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_074311.md"
+    },
+    {
+      "basename": "Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_074447",
+      "path": "copilot/copilot-conversations/Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_074447.md"
+    },
+    {
+      "basename": "What_are_the_key_insights_from_this_paper@20260124_073226",
+      "path": "copilot/copilot-conversations/What_are_the_key_insights_from_this_paper@20260124_073226.md"
+    },
+    {
       "basename": "The God of the Hallucination",
       "path": "03 Resources/Theology/The God of the Hallucination.md"
     },
@@ -51,10 +87,6 @@
     {
       "basename": "Hebrew and Greek Perspective",
       "path": "03 Resources/Theology/Hebrew and Greek Perspective.md"
-    },
-    {
-      "basename": "Evernote_index",
-      "path": "04 Archives/Evernote_index.md"
     },
     {
       "basename": "2 Cor 4 - Treasure in Jars of Clay",
@@ -167,34 +199,6 @@
     {
       "basename": "Admin Index",
       "path": "02 Areas/Admin/Admin Index.md"
-    },
-    {
-      "basename": "Ministry Index",
-      "path": "02 Areas/Ministry/Ministry Index.md"
-    },
-    {
-      "basename": "Family Index",
-      "path": "02 Areas/Family/Family Index.md"
-    },
-    {
-      "basename": "Books Index",
-      "path": "01 Projects/Books/Books Index.md"
-    },
-    {
-      "basename": "Social Media Index",
-      "path": "01 Projects/Social Media Threads/Social Media Index.md"
-    },
-    {
-      "basename": "YADAH",
-      "path": "03 Resources/Glossary/YADAH.md"
-    },
-    {
-      "basename": "ECHAD",
-      "path": "03 Resources/Glossary/ECHAD.md"
-    },
-    {
-      "basename": "YESH",
-      "path": "03 Resources/Glossary/YESH.md"
     }
   ],
   "omittedPaths": [],
