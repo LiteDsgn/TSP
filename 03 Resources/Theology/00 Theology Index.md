@@ -11,6 +11,7 @@ banner_icon: 🔖
 ---
 
 - [[2 Cor 4 - Treasure in Jars of Clay]]
+- [[2 Cor 7]]
 - [[Contradiction  Paradox]]
 - [[Decending and Ascending Truths]]
 - [[Dictionary of the Name]]
