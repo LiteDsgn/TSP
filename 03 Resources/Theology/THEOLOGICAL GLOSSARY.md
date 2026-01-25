@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# THEOLOGICAL GLOSSARY
+
 ## A Hebraic Dictionary of Redemption
 
 _This glossary reflects a theological framework rooted in Hebraic thought, Paraconsistent Logic, and the [[YESH|Yesh]]-[[ECHAD|Echad]] Monoergistic (One Substance) reality. It emphasizes the relational, covenantal, and incarnational nature of God's Name. Each term is explored through its linguistic depth, biblical usage, and systematic connection to the overarching narrative of the Seed._

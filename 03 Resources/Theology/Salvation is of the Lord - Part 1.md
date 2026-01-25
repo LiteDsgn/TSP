@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Salvation is of the Lord - Part 1
+
 To show that salvation rests on God’s faithfulness rather than our own reliability, you need to look at verses that describe salvation as **monergistic** (a work of God alone) regarding its origin, power, and security.
 
 Here are the strongest arguments and scriptures that are free from the "faith in/faith of" translation debate.

@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Name in the Blood Awakening from the Illusion of Separation
+
 ---
 
 For centuries, we have been asking the wrong question. We stand at the foot of the mountain, looking up at the thunder and smoke, asking, _“What do I call Him?”_ We treat the Divine as an object—a massive, terrifying, distant object—that requires a label. We obsess over pronunciation. Is it _Yahweh_? Is it _Jehovah_? Is it _Hashem_?

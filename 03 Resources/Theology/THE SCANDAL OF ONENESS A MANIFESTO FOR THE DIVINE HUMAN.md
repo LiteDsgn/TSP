@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# THE SCANDAL OF ONENESS A MANIFESTO FOR THE DIVINE HUMAN
+
 **SUBTITLE: Unlocking the [[YESH|Yesh]]-[[ECHAD|Echad]] Framework**
 
 ---

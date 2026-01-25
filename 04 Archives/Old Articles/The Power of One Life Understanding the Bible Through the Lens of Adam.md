@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Power of One Life Understanding the Bible Through the Lens of Adam
+
 
      
 

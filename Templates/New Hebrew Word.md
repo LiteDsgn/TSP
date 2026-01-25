@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: {{date}}
+updated: {{date}}
 type: concept
 tags:
   - glossary
@@ -11,24 +11,24 @@ aliases:
 ---
 # {{title}} (HEBREW_HERE)
 
-**Standard Meaning:**
+#### Standard Meaning:
 ...
 
-**Hebraic Meaning:**
+#### Hebraic Meaning:
 ...
 
-**Paleo-Hebrew Linguistics:**
+#### Paleo-Hebrew Linguistics:
 - **Letter:** Meaning
 - **Letter:** Meaning
 
-**The Picture:**
+#### The Picture:
 ...
 
-**My Insight:**
+#### My Insight:
 ...
 
-**Scripture(s):**
+#### Scripture(s):
 - 
 
-**Narrative Context:**
+#### Narrative Context:
 ...

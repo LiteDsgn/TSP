@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Operation of God - Part 1
+
 This is the climax of the investigation. The title **"Son of Man"** is the perfect key that unlocks how all these disparates pieces—Suffering, Substance (_Yesh_), Glory (_Kavod_), and God (_HaShem_)—fit together in one Person.
 
 Here is the connection: **The Son of Man is the only vessel strong enough to hold "[[YESH|Yesh]]" (Divine Reality) within "[[ADAM|Adam]]" (Human Frailty).**

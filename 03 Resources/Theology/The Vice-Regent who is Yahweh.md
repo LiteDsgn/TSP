@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Vice-Regent who is Yahweh
+
 That is an excellent catch. It is very important to define terms precisely here, because "Vice-Regent" can sound like "Agent" if we aren't careful.
 
 When I used the term "Divine Vice-Regent" in the context of Daniel 7 and ancient Jewish theology, I was **not** saying Jesus is less than God.

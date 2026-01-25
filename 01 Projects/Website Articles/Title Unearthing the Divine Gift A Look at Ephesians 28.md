@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Title Unearthing the Divine Gift A Look at Ephesians 28
+
 **Title: Unearthing the Divine Gift: A Look at Ephesians 2:8**
 
   

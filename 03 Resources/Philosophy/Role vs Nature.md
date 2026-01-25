@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# Role vs Nature
+
 This is the most common "gotcha" verse used by Unitarians, Jehovah's Witnesses, and Muslims. They believe John 14:28 ("The Father is greater than I") is the smoking gun that proves Jesus is created and inferior.
 
 However, this argument relies on a category error: **confusing "Role" with "Nature."**

@@ -8,6 +8,8 @@ modelKey: "gemini-2.5-pro|google"
 tags:
   - copilot-conversation
 ---
+# Give_me_a_quick_recap_of_activeNote_in_two_sentences.@20260124_074311
+
 
 **user**: Give me a quick recap of {activeNote} in two sentences.
 [Context: Notes: 03 Resources/Theology/The God of the Hallucination.md]

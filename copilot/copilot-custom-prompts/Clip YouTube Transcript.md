@@ -5,6 +5,8 @@ copilot-command-context-menu-order: 1130
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
+# Clip YouTube Transcript
+
 
 Based on the YouTube video information and transcript provided in the context, generate a complete Obsidian note in the following format.
 

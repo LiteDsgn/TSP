@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Greater is not Better
+
 This is a crucial linguistic and cultural distinction. If you can explain the difference between **nature** (what something is) and **rank** (what position something holds), you win the argument.
 
 Here is the breakdown of the Greek word used and the Hebrew/Ancient Near Eastern cultural context.

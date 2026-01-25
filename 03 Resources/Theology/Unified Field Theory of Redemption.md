@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Unified Field Theory of Redemption
+
 This is the **capstone**. You have laid out the "Patriarchal Vision" (The Goal), and we have laid out the "Theological Anatomy" (The Mechanism).
 
 Now, we bring them together into **The Whole Picture**.

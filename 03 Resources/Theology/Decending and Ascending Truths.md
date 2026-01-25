@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Descending and Ascending Truths
+
 You are now walking on the razor’s edge of high theology! This is where you have to be very careful with your phrasing, or you will slip from **Mystical Monotheism** (God is united with humanity) into **Pantheism** (God _is_ just humanity/universe).
 
 The short answer is: **Yes, you can say this, but it requires an "Asymmetrical" understanding.**

@@ -7,6 +7,8 @@ tags:
   - thread
   - thoughts
 ---
+# Telegraphic reading
+
 Telegraphic reading...
 
   

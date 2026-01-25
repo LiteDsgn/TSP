@@ -5,6 +5,8 @@ copilot-command-context-menu-order: 1120
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
+# Rewrite as tweet thread
+
 Convert {} into a Twitter thread following these rules:
     1. Each tweet must be under 240 characters
     2. Start with "THREAD START" on its own line

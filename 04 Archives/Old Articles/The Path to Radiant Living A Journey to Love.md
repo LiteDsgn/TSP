@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Path to Radiant Living A Journey to Love
+
 Love is a concept that has fascinated and puzzled people for centuries, and for good reason. It's a powerful force that can transform our lives in amazing ways. At the heart of it all is God, who is Love itself. God's Love is not just a feeling or an emotion, it's a fundamental part of who God is, and it's something that indwells us all.
 
 To express God's Love, we must first learn what it means to love ourselves. When we understand and accept the Love that God has for us, we start to see ourselves in a new light. We see that we are valuable and worthy of Love, no matter what we've done or how we feel about ourselves.

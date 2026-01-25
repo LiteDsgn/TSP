@@ -8,7 +8,7 @@ updated: 2026-01-22
 | Title | Link | Category | Status |
 |---|---|---|---|
 | THEOLOGICAL GLOSSARY | [[THEOLOGICAL GLOSSARY]] | | Unprocessed |
-| Untitled | [[Untitled]] | | Unprocessed |
+| Untitled | [[YHVH (יהוה)]] | | Unprocessed |
 | The Epistle of the Name: Comprehensive Writing Instructions | [[The Epistle of the Name Comprehensive Writing Instructions]] | | Unprocessed |
 | The Epistle of the Name: A Letter to the Sprouting Church | [[The Epistle of the Name A Letter to the Sprouting Church]] | | Unprocessed |
 | Untitled | [[Untitled (1)]] | | Unprocessed |

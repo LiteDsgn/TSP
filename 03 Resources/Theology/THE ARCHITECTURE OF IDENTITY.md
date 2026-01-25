@@ -8,6 +8,8 @@ tags:
   - theology
   - identity
 ---
+# THE ARCHITECTURE OF IDENTITY
+
 ## A Theological Synthesis: When God Speaks, He Reveals What You Are
 
 ---

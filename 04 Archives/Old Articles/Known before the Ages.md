@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Known before the Ages
+
 God has found us in Christ before he lost us in [[ADAM|Adam]]. He associated us in Christ before the foundation of the world (Eph 1:4 ).
 
   

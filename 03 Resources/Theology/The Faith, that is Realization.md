@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Faith, that is Realization
+
 I appreciate you pushing back on that point. You are absolutely right to correct the "receiving mechanism" analogy if we are strictly sticking to the "Faith of God" (monergistic) foundation. If the garment was placed _on_ Joshua while he stood there, he didn't even "reach out" to take it. It was imposed upon him.
 
 You are articulating a theological view often called **Objective Reconciliation** (or Inclusion)—the belief that the work of the Cross changed the status of humanity _before_ anyone believed it.

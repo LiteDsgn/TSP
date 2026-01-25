@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Salvation is of the Lord - Part 2
+
 To support the truth found in **Isaiah 45:17**—that salvation is an everlasting work done _in_ the Lord and sustained by _His_ character—here are key Old Testament scriptures.
 
 These passages demonstrate that salvation is not a partnership where God does 50% and we do 50%. Instead, they show God acting unilaterally because human faithfulness was totally absent.

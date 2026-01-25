@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Name That Saves An Awakening to the Reality of God
+
 Here is a dissertation reflecting your theological perspective. It weaves together the Monergistic work of God, the revelation of the Name (_Ehyeh_), the Hebrew concepts of _Yesh_ and _Kavod_, and the understanding of faith as a joyful awakening.
 
 ---

@@ -1,4 +1,4 @@
-import { Plugin, TFile, TFolder, Notice, PluginSettingTab, App, Setting, TextComponent } from 'obsidian';
+import { Plugin, TFile, TFolder, Notice, PluginSettingTab, App, Setting, AbstractInputSuggest, TextComponent } from 'obsidian';
 
 // CONFIGURATION INTERFACE
 interface TSPAutomatorSettings {
@@ -36,7 +36,7 @@ export default class TSPAutomator extends Plugin {
     settings: TSPAutomatorSettings;
 
     async onload() {
-        console.log('TSP Automator loaded');
+        console.log('TSP Automator loaded (v3 - AutoComplete)');
 
         await this.loadSettings();
 
@@ -47,6 +47,7 @@ export default class TSPAutomator extends Plugin {
         this.registerEvent(this.app.vault.on('create', async (file) => {
             if (file instanceof TFile && file.extension === 'md') {
                 await this.handleFileCreate(file);
+                await this.ensureTitle(file);
                 await this.updateIndexForFile(file);
             }
         }));
@@ -61,16 +62,14 @@ export default class TSPAutomator extends Plugin {
         // Watch for file rename/move
         this.registerEvent(this.app.vault.on('rename', async (file, oldPath) => {
             if (file instanceof TFile && file.extension === 'md') {
-                // Update index for OLD path (remove)
-                // We need to figure out the old folder.
                 const oldDir = oldPath.substring(0, oldPath.lastIndexOf('/'));
                 const oldFolder = this.app.vault.getAbstractFileByPath(oldDir);
                 if (oldFolder instanceof TFolder) {
                     await this.regenerateIndex(oldDir); 
                 }
 
-                // Update index for NEW path (add)
                 await this.updateIndexForFile(file);
+                await this.ensureTitle(file, true);
             }
         }));
     }
@@ -82,18 +81,76 @@ export default class TSPAutomator extends Plugin {
     async saveSettings() {
         await this.saveData(this.settings);
     }
+    
+    // Logic to ensure the file has a # Title that matches the filename
+    async ensureTitle(file: TFile, forceUpdate = false) {
+        if (file.path.startsWith("Templates/")) return;
+
+        try {
+            const content = await this.app.vault.read(file);
+            const lines = content.split("\n");
+            let titleLineIndex = -1;
+            let insertIndex = 0;
+            
+            let hasFrontmatter = false;
+            let endFrontmatterIndex = -1;
+            
+            if (lines.length > 0 && lines[0].trim() === "---") {
+                hasFrontmatter = true;
+                for (let i = 1; i < lines.length; i++) {
+                    if (lines[i].trim() === "---") {
+                        endFrontmatterIndex = i;
+                        break;
+                    }
+                }
+            }
+            
+            if (hasFrontmatter && endFrontmatterIndex !== -1) {
+                insertIndex = endFrontmatterIndex + 1;
+            } else {
+                insertIndex = 0;
+            }
+            
+            for (let i = insertIndex; i < lines.length; i++) {
+                if (lines[i].trim().startsWith("# ")) {
+                    titleLineIndex = i;
+                    break;
+                }
+                if (i > insertIndex + 5) break; 
+            }
+            
+            const desiredTitle = `# ${file.basename}`;
+            
+            if (titleLineIndex !== -1) {
+                if (forceUpdate) {
+                    const currentTitle = lines[titleLineIndex].trim();
+                    if (currentTitle !== desiredTitle) {
+                        lines[titleLineIndex] = desiredTitle;
+                        await this.app.vault.modify(file, lines.join("\n"));
+                    }
+                }
+            } else {
+                const linesToInsert = [];
+                if (insertIndex > 0) linesToInsert.push("");
+                linesToInsert.push(desiredTitle);
+                linesToInsert.push(""); 
+                
+                lines.splice(insertIndex, 0, ...linesToInsert);
+                await this.app.vault.modify(file, lines.join("\n"));
+            }
+        } catch (err) {
+            console.error("Error in ensureTitle:", err);
+        }
+    }
 
     async handleFileCreate(file: TFile) {
-        // 1. Check if file is empty
         const content = await this.app.vault.read(file);
         if (content.trim().length > 0) {
-            return; // File not empty, skip template
+            return; 
         }
 
-        // 2. Determine folder
         const folderPath = file.parent.path;
         
-        // 3. Check for template
         const templatePath = this.settings.folderTemplateMap[folderPath];
         if (!templatePath) return;
 
@@ -101,12 +158,10 @@ export default class TSPAutomator extends Plugin {
         if (templateFile instanceof TFile) {
             let templateContent = await this.app.vault.read(templateFile);
             
-            // 4. Replacements
             const dateStr = window.moment().format('YYYY-MM-DD');
             templateContent = templateContent.replace(/{{date}}/g, dateStr);
             templateContent = templateContent.replace(/{{title}}/g, file.basename);
             
-            // 5. Apply
             await this.app.vault.modify(file, templateContent);
             new Notice(`Applied template: ${templateFile.basename}`);
         } else {
@@ -115,56 +170,38 @@ export default class TSPAutomator extends Plugin {
     }
 
     async updateIndexForFile(file: TFile) {
-        // If file is deleted, file.parent might be null, need to handle that context.
-        // Actually, for delete event, 'file' object still has path properties usually, 
-        // but 'parent' might be tricky if the folder was deleted. 
-        // But usually we delete files inside folders.
-        
-        // Ideally we just regenerate the index for the folder involved.
         const folderPath = file.parent ? file.parent.path : file.path.substring(0, file.path.lastIndexOf('/'));
         await this.regenerateIndex(folderPath);
     }
 
     async regenerateIndex(folderPath: string) {
-        // Check if this folder needs indexing
         const indexName = this.settings.folderIndexMap[folderPath];
         if (!indexName) return;
 
         const folder = this.app.vault.getAbstractFileByPath(folderPath);
         if (!(folder instanceof TFolder)) return;
 
-        // Get all MD files in folder
         const files = folder.children
             .filter(f => f instanceof TFile && f.extension === 'md' && f.basename !== indexName)
             .sort((a, b) => a.name.localeCompare(b.name));
 
-        // Prepare Frontmatter
         const indexPath = `${folderPath}/${indexName}.md`;
         let indexFile = this.app.vault.getAbstractFileByPath(indexPath);
         let frontmatter = `---
 banner: "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80"
 banner_y: 0.5
----\n\n`;
+---
 
-        // If file exists, try to preserve existing frontmatter
+`;
+
         if (indexFile instanceof TFile) {
             const currentContent = await this.app.vault.read(indexFile);
             const match = currentContent.match(/^---\n[\s\S]*?\n---\n/);
             if (match) {
                 frontmatter = match[0] + '\n';
-                // Check if banner exists in preserved frontmatter, if not, we might want to add it?
-                // For now, let's assume if frontmatter exists, the user manages it, or we insert it if missing?
-                // To be safe/simple: We just preserve whatever is there. 
-                // If the user wants to add a banner, they will add it and we won't delete it.
-                // But if we want to enforce banners on existing files that have frontmatter but no banner, that's complex parsing.
-                // Let's stick to: Preserve if exists. Use default if new/no frontmatter.
-            } else {
-                 // No frontmatter found, use default with banner
             }
         }
 
-        // Generate Content
-        // Strip leading digits and space (e.g. "00 ") for display title
         const displayTitle = indexName.replace(/^\d+\s+/, '');
         let content = frontmatter;
         content += `# 📂 ${displayTitle}\n\n`;
@@ -184,18 +221,50 @@ banner_y: 0.5
         content += `\n---\n`;
         content += `[[Home Dashboard|🏠 Back to Dashboard]]`;
 
-        // Write Index File
         if (indexFile instanceof TFile) {
             await this.app.vault.modify(indexFile, content);
         } else {
             await this.app.vault.create(indexPath, content);
         }
-        
-        // console.log(`Updated index: ${indexPath}`);
     }
 
     onunload() {
         console.log('TSP Automator unloaded');
+    }
+}
+
+class FolderSuggest extends AbstractInputSuggest<TFolder> {
+    textInputEl: HTMLInputElement;
+
+    constructor(app: App, textInputEl: HTMLInputElement) {
+        super(app, textInputEl);
+        this.textInputEl = textInputEl;
+    }
+
+    getSuggestions(inputStr: string): TFolder[] {
+        const abstractFiles = this.app.vault.getAllLoadedFiles();
+        const folders: TFolder[] = [];
+        const lowerCaseInputStr = inputStr.toLowerCase();
+
+        abstractFiles.forEach((file: import("obsidian").TAbstractFile) => {
+            if (file instanceof TFolder) {
+                if (file.path.toLowerCase().contains(lowerCaseInputStr)) {
+                    folders.push(file);
+                }
+            }
+        });
+
+        return folders;
+    }
+
+    renderSuggestion(file: TFolder, el: HTMLElement): void {
+        el.setText(file.path);
+    }
+
+    selectSuggestion(file: TFolder): void {
+        this.textInputEl.value = file.path;
+        this.textInputEl.trigger("input");
+        this.close();
     }
 }
 
@@ -214,7 +283,6 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
 
         containerEl.createEl('h2', { text: 'TSP Automator Settings' });
 
-        // Section 1: Folder Index Map
         this.renderMapSettings(
             containerEl,
             'Folder Index Map',
@@ -227,12 +295,12 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
             'Folder Path (e.g. 01 Projects)',
             'Index Name (e.g. Projects Index)',
             'Folder Path',
-            'Index Filename'
+            'Index Filename',
+            true // Enable Auto-Naming for Index
         );
 
         containerEl.createEl('hr');
 
-        // Section 2: Folder Template Map
         this.renderMapSettings(
             containerEl,
             'Folder Template Map',
@@ -245,7 +313,8 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
             'Folder Path (e.g. 01 Projects)',
             'Template Path (e.g. Templates/Note.md)',
             'Folder Path',
-            'Template Path'
+            'Template Path',
+            false
         );
     }
 
@@ -258,12 +327,12 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
         keyPlaceholder: string,
         valuePlaceholder: string,
         keyLabel: string,
-        valueLabel: string
+        valueLabel: string,
+        isIndexMap: boolean
     ) {
         containerEl.createEl('h3', { text: heading });
         containerEl.createEl('p', { text: desc, cls: 'setting-item-description' });
 
-        // Header Row
         const header = containerEl.createDiv({ cls: 'setting-item tsp-header-row' });
         header.style.display = 'flex';
         header.style.alignItems = 'center';
@@ -286,7 +355,6 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
         valueCol.style.fontSize = '0.8em';
         valueCol.style.textTransform = 'uppercase';
         
-        // Spacer for delete button
         const actionCol = header.createDiv({ text: '' }); 
         actionCol.style.width = '40px'; 
 
@@ -295,23 +363,53 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
         entries.forEach(([key, value], index) => {
             const setting = new Setting(containerEl);
             
-            // Clear default info (name/desc) and inject Key Input
             setting.infoEl.empty();
             setting.infoEl.style.flex = '1';
             setting.infoEl.style.paddingRight = '10px';
             
-            const keyInput = new TextComponent(setting.infoEl)
-                .setPlaceholder(keyPlaceholder)
-                .setValue(key)
-                .onChange(async (newKey) => {
-                    entries[index][0] = newKey;
-                    const newMap = Object.fromEntries(entries);
-                    await onSave(newMap);
-                });
-            keyInput.inputEl.style.width = '100%';
+            // KEY INPUT with SUGGESTER
+            const keyInputComp = new TextComponent(setting.infoEl);
+            keyInputComp.setPlaceholder(keyPlaceholder).setValue(key);
+            keyInputComp.inputEl.style.width = '100%';
+            
+            // Add Folder Suggestion
+            new FolderSuggest(this.app, keyInputComp.inputEl);
 
-            // Value Input in Control
-            // setting.controlEl is usually flex-end. We want it to take space.
+            keyInputComp.onChange(async (newKey) => {
+                entries[index][0] = newKey;
+                
+                // AUTO-NAMING LOGIC
+                if (isIndexMap && newKey.trim() !== "") {
+                    // Extract the last part of the folder path
+                    const parts = newKey.split("/");
+                    const folderName = parts[parts.length - 1];
+                    // Clean it up (remove leading numbers if desired, or keep them)
+                    // Let's strip standard "01 " prefix for the title part
+                    const cleanName = folderName.replace(/^\d+\s+/, '');
+                    
+                    const autoName = `00 ${cleanName} Index`;
+                    
+                    // Update value input if it's currently empty
+                    const currentValue = entries[index][1];
+                    if (currentValue === "") {
+                         entries[index][1] = autoName;
+                         // We need to update the UI component too, but we don't have direct ref easily here unless we store it.
+                         // Actually, triggering save will re-render if we call display(), but that might lose focus.
+                         // Let's just update the data map for now.
+                         // To make it visible immediately, we'd need to find the value component.
+                         // For simplicity, we'll save and let the user see it next time or just trust it's saved.
+                         // BETTER: We can just update the value in the inputs if we had refs.
+                    }
+                }
+
+                const newMap = Object.fromEntries(entries);
+                await onSave(newMap);
+                // Re-render to show auto-filled value? It interrupts typing.
+                // Let's NOT re-render on every keystroke.
+            });
+
+
+            // VALUE INPUT
             setting.controlEl.style.flex = '1';
             setting.controlEl.style.justifyContent = 'flex-start';
 
@@ -325,7 +423,6 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
                 });
             valueInput.inputEl.style.width = '100%';
 
-            // Delete Button
             setting.addExtraButton(btn => btn
                 .setIcon("trash")
                 .setTooltip("Delete")
@@ -333,12 +430,10 @@ class TSPAutomatorSettingTab extends PluginSettingTab {
                     entries.splice(index, 1);
                     const newMap = Object.fromEntries(entries);
                     await onSave(newMap);
-                    // Force refresh to remove the row
                     this.display();
                 }));
         });
 
-        // Add New Button
         new Setting(containerEl)
             .addButton(btn => btn
                 .setButtonText("Add New Mapping")

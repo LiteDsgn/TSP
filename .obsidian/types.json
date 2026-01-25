@@ -5,6 +5,7 @@
     "tags": "tags",
     "date created": "date",
     "created": "date",
-    "modified": "date"
+    "modified": "date",
+    "updated": "date"
   }
 }

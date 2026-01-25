@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Glossary Summary
+
 Here is the comprehensive Glossary Summary of every word from your list, categorized and defined according to the **[[YESH|Yesh]]-[[ECHAD|Echad]] / Seed-Incarnation** framework we have built.
 
 ---

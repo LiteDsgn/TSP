@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# The Ontological Son of God
+
 If we are looking for a verse that says, _"God has an eternal, ontological Son who is of the same essence as Him,"_ in explicit, systematic terms: **No, the Old Testament does not state it that clearly.**
 
 However, if we are looking for passages that **describe a Son** in a way that goes far beyond a functional human king—attributing **divine nature (ontology)** to him—there are two or three specific texts that theologians point to.

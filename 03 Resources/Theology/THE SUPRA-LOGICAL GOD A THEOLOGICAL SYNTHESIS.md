@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# THE SUPRA-LOGICAL GOD A THEOLOGICAL SYNTHESIS
+
 ## When Paradox Becomes the Fingerprint of the Divine
 
 ---

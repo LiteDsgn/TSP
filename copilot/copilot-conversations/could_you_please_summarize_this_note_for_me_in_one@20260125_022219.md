@@ -8,6 +8,8 @@ modelKey: "gemini-2.5-pro|google"
 tags:
   - copilot-conversation
 ---
+# could_you_please_summarize_this_note_for_me_in_one@20260125_022219
+
 
 **user**: could you please summarize this note for me in one paragraph?
 [Context: Notes: 03 Resources/Theology/The God of the Hallucination.md]

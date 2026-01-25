@@ -5,6 +5,8 @@ copilot-command-context-menu-order: 100
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
+# Extract Biblical References
+
 Identify and extract all Biblical references (e.g., John 3:16) from the following text: {}. 
 For each reference, provide:
 1. The reference citation.

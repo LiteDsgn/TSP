@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# God's Idea
+
 You're the greatest idea that God has ever had. In fact, you're now more than an idea... You're a reality.
 
   

@@ -8,6 +8,8 @@ modelKey: "gemini-2.5-pro|google"
 tags:
   - copilot-conversation
 ---
+# Could_you_give_me_a_quick_recap_of_this_note@20260125_001558
+
 
 **user**: Could you give me a quick recap of this note in one paragraph?
 [Context: Notes: 03 Resources/Theology/The God of the Hallucination.md]

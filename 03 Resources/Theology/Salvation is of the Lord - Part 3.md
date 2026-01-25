@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Salvation is of the Lord - Part 3
+
 Here is the breakdown of the Hebraic perspective, the danger of stealing God's glory, and the practical purpose of our faith.
 
 ### 1. The Hebraic Perspective of Salvation

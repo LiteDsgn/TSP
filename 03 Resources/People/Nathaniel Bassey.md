@@ -6,6 +6,8 @@ tags:
   - influence
   - author
 ---
+# Nathaniel Bassey
+
 I know you are here
 
 Here in your power

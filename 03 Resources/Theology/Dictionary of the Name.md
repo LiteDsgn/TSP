@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Dictionary of the Name
+
 ---
 **WORD:** **[[EHYEH|Ehyeh]]** (Hebrew)
 

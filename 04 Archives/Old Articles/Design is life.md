@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Design is life
+
 Every design is a life,
 
 A function apart from this design is no life lived

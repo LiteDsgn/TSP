@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# Homepage Story
+
 ## Welcome Home
 
 There's a question I've been asking for as long as I can remember:

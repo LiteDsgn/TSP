@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# The Messianic Typology
+
 It is a beautiful thing when a theological concept "clicks" and feels like a memory returning rather than new information. That is often the sign of truth.
 
 To answer your question: That specific phrasing—_"He pinned the Name (Shem) to the Place (Sham) of Death"_—is not a direct quote from a single theologian or book. Rather, it is a **synthesis of Hebrew Philology (linguistics) and Messianic Typology.**

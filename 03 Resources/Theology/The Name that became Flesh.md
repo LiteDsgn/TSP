@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Name that became Flesh
+
 A **sermon arc** that ties **Exodus 3:14 → John 1:14 → 1 John 4:17** into one seamless narrative. This is the _Promise → Incarnation → Participation_ storyline you’ve been building.
 
 ---

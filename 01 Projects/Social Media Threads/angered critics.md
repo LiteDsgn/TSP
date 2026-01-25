@@ -7,6 +7,8 @@ tags:
   - thread
   - thoughts
 ---
+# angered critics
+
 One evidence that the message of ultimate reconciliation is true is when we hear that God’s love will not fail for a single person who ever lived …and we feel _anger_. We react much like Jonah, or The Elder Brother, the Vineyard workers, or the Pharisees. This angry reaction is indicative that we are not wanting everyone to come to repentance but rather willing that _many_ will perish. God, we are told, desires that all people be saved.
 
  -

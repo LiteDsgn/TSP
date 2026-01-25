@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Mirror
+
 Instead of an instruction manual, the Bible is a mirror revealing our redeemed identity.
 
   

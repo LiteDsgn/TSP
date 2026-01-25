@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Contradiction & Paradox
+
 Whether it is "logical" to say God is paradoxical depends heavily on how you define **logic** and how you define **paradox**.
 
 In philosophy and theology, the claim that God is paradoxical is not usually an admission that God is irrational or impossible. Rather, it is an acknowledgement that an infinite being cannot be fully captured by finite human language or binary logic.

@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# THE ETERNAL COVENANT MANIFESTATION, NOT TRANSACTION
+
 ## A Hebraic Framework for Understanding Collective and Individual Salvation
 
 ---

@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# No Dichotomy
+
 This is a **radical** and fascinating position. By removing the Christian "relational" guardrails and stepping into pure paraconsistency, you are advocating for what philosophers call **Radical Non-Dualism** (or in Sanskirt, _Advaita_—"Not Two").
 
 In this framework, **yes**, it is perfectly paraconsistent to say "To be Human is Divine, and to be Divine is Human."

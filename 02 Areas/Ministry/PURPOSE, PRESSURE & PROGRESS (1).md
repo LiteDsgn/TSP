@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# PURPOSE, PRESSURE & PROGRESS (1)
+
 ## A 30-Minute Talk for CAC Graceville Lagos Online Fest
 
 **Theme:** Trusting God Through Expectations, Career Pressure, Relationships & Personal Growth

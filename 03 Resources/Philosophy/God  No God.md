@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# God  No God
+
 This is a profound question that takes you to the absolute edge of theology and logic.
 
 The short answer is: **Yes, absolutely.**

@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# There is no difference
+
 There's no difference in what the traditional leaders of old did and the religious leaders of the new do. There is just a change from a small angry god to a big angry God. My God is bigger than your god.
 
   

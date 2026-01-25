@@ -4,6 +4,7 @@
   "monospaceFontFamily": "Liberation Mono",
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "banner-tweaks"
+    "banner-tweaks",
+    "hide-redundant-title"
   ]
 }

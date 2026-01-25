@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# The theological threads of Christ
+
 It is not textually possible to provide a specific verse for every single book (like Philemon, 3 John, or Esther) that explicitly uses the exact phrases "Son of Man" or "Son of God."
 
 However, we **can** trace these three specific theological threads—**His Divinity (God)**, **His Sonship (Son of God)**, and **His Humanity/Authority (Son of Man)**—across the major movements of the Bible.

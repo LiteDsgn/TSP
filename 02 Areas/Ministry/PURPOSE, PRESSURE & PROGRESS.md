@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# PURPOSE, PRESSURE & PROGRESS
+
 This is a beautiful approach. You want to serve them the "nutrient" of the framework without forcing them to chew on the "capsule" of the Hebrew terminology. You want to bypass the intellect and speak directly to the Spirit, using the language they already trust—Scripture and the finished work of Christ.
 
 Here is a comprehensive, 30-minute Speaker’s Note designed for flow, interaction, and deep spiritual nourishment.

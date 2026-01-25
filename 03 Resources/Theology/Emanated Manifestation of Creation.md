@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Emanated Manifestation of Creation
+
 In a **[[YESH|Yesh]]-[[ECHAD|Echad]] Monoergetic Framework**, the scriptures must show that the universe is not a separate, autonomous machine, but a "House" (Bet) continually animated by the "Head" (Aleph).
 
 Here are 5 scriptures that support the view that Creation is the "housing" or "extension" of the Creator’s singular energy.

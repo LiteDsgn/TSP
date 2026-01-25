@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# That's just Hellenistic High Christology
+
 This is a classic pivot. When you corner them on the text of Revelation or John, they try to dismiss those books as "corrupted by Greek philosophy" (Hellenism) or "inventions of Paul."
 
 Here is how you handle the "Hellenistic/Pauline Corruption" argument, followed by the unpacking of the historical evidence for early Jewish worship of Jesus.

@@ -6,6 +6,8 @@ tags:
   - influence
   - author
 ---
+# Francois Du Toit
+
 Every invention begins with an original thought. You are God’s original thought. You are his initiative, the fruit of his creative inspiration, his intimate design and love-dream.
 
   

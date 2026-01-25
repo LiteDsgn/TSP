@@ -87,6 +87,7 @@ banner_icon: 🔖
 - [[YARAH]]
 - [[YASHA]]
 - [[YESH]]
+- [[YHVH (יהוה)]]
 - [[YIRAH]]
 - [[ZAKAR]]
 - [[ZERA]]

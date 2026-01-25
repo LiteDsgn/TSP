@@ -2,6 +2,8 @@
 created: 2026-01-22
 updated: 2026-01-22
 ---
+# Voice of Scripture
+
 The destiny of the [[LOGOS|Logos]] was not to be caged in a book or a doctrine but to be documented and unveiled in human life! Human life is the most articulate voice of Scripture. Jesus is God’s language; mankind is his audience (Heb 1:1-3).
 
   

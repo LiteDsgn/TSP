@@ -6,6 +6,8 @@ tags:
   - book
   - writing
 ---
+# The Epistle of the Name A Letter to the Sprouting Church
+
 ═══════════════════════════════════════════════════════════════════════════════
 
 Chapter 1: Salutation and the The Substance of Existence

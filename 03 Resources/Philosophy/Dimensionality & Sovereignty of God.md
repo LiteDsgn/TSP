@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Dimensionality & Sovereignty of God
+
 The short answer is **yes**. From the standpoint of modern non-classical logic, asserting that "God became human" is a textbook candidate for **paraconsistency**, specifically within a **supra-logical** framework.
 
 Here is a breakdown of why this mapping works, how philosophers visualize it, and the distinction between "illogical" and "supra-logical."

@@ -6,6 +6,8 @@ tags:
   - influence
   - author
 ---
+# Andre Rabe
+
 
 Jesus is the context of Scripture (Isa 53:4, 5).  Long before the first line of Scripture
 

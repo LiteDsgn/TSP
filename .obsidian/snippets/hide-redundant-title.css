@@ -1,0 +1,21 @@
+/* 
+   Hides the first H1 in the main editor and reading view 
+   to avoid redundancy with Obsidian's "Inline Title" feature.
+   However, it keeps the H1 visible in Hover Previews (popovers).
+*/
+
+/* 1. Hide in the main workspace (Live Preview & Reading Mode) */
+.workspace-leaf-content .markdown-source-view .cm-heading.cm-header-1:first-of-type,
+.workspace-leaf-content .markdown-rendered h1:first-of-type {
+    display: none !important;
+}
+
+/* 2. Explicitly show in Hover Popovers */
+.hover-popover .markdown-rendered h1:first-of-type {
+    display: block !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}

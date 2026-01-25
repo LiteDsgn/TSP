@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# No manual
+
 Jesus did not come to condemn the world but to free the world.  Religion has majored on guilt- and willpower-driven sentiment, which engaged man in futile efforts to save or improve himself.  The Bible was never meant to be a manual; its message is all about Emmanuel! God with us! Every definition of distance is cancelled in Christ (Isa 40:4, 5). When Scripture is interpreted as a mere instruction manual for moral behavior its message is veiled.
 
   

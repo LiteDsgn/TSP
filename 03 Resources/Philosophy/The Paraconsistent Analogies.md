@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Paraconsistent Analogies
+
 Here are 5 paraconsistent analogies tailored to the Nigerian context. These are designed to be "proof-resistant"—meaning that while they contain a contradiction, the contradiction is arguably necessary for the system to work, making it hard for a critic to dismantle them without destroying the reality they describe.
 
 ### 1. The Egungun (Masquerade) Analogy

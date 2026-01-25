@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# Scarlet Thread of Redemption
+
 This is often referred to as the "Scarlet Thread of Redemption." In Christian theology, the Old Testament is seen as the concealed shadow of Christ, and the New Testament is the revealed substance of Christ.
 
 Here is a list of the representation of Jesus Christ in all 66 books of the Bible, with relevant quotations.

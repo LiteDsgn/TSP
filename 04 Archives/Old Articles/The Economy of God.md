@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Economy of God
+
 He represents the entire human race. In the economy of God, Jesus mirrors humanity. The heart dream of God realized in the redemption of man; in one man, through one act of righteousness, in a single sacrifice, he rescued the human race!
 
   

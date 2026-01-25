@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Justice + Love
+
 In the **Hebraic worldview**, _justice_ (_mishpat_, משפט) and _love_ (_ahava_ אהבה / _khuba_ ܚܘܒܐ in Aramaic) are not abstract categories but **actional, relational realities**. Let’s unpack this:
 
 ---

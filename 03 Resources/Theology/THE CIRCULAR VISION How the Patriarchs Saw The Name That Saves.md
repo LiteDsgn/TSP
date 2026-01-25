@@ -7,6 +7,9 @@ tags:
   - writing
   - theology
 ---
+
+# THE CIRCULAR VISION How the Patriarchs Saw The Name That Saves
+
 #   
 
 ## Introduction: The Hebrew Worldview

@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Name of God - Part 1
+
 Let’s connect your **Burning Bush–Incarnation perspective** directly to **1 John 4:17**:
 
 ---

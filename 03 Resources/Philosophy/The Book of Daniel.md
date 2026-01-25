@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Book of Daniel
+
 This is a sophisticated objection, often coming from secular critical scholars or Jewish counter-missionaries. Their argument is: _Daniel was written in the 2nd Century BC (during the Maccabean revolt), not the 6th Century BC; therefore, it reflects Greek (Hellenistic) influence, not "pure" ancient Judaism._
 
 Here is how you dismantle that argument without getting bogged down in a debate about the dating of Daniel (which is a massive rabbit hole).

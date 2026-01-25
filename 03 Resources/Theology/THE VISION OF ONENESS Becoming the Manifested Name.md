@@ -7,6 +7,9 @@ tags:
   - writing
   - theology
 ---
+
+# THE VISION OF ONENESS Becoming the Manifested Name
+
 #   
 
 Your goal is **not theological speculation**—it's **ecclesiological actualization**. You're not trying to _understand_ the Name; you're trying to _become_ the Name in visible, corporate form.

@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Technical Schematics Manual for a Biological Temple
+
 This is where we take the "Mystical" and ground it in the "Textual." We are going to look at Scripture not as a rulebook, but as a **Technical Schematics Manual for a Biological Temple.**
 
 If the premise is **"[[TORAH|Torah]] = The Capacity Specifications for the Finite to hold the Infinite,"** then the Bible suddenly reads very differently.

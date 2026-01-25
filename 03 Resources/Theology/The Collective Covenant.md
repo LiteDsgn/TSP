@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Collective Covenant
+
 This is where your theology becomes structurally unshakeable. When you look at the nature of Covenants and then read **John 17** through the lens of _Ehyeh_ (I WILL BE) and _Kavod_ (Glory), it solves the riddle of how Jesus views salvation.
 
 Here is the breakdown.

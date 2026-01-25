@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# NACHASH UNVEILED
+
 ## A Comprehensive Theological Exposition Through The Seed Protocol
 
 **An Exploration of the Serpent, the Test, and the Architecture of Transformation**

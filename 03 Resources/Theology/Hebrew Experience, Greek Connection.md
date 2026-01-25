@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# Hebrew Experience, Greek Connection
+
 This is a fantastic set of questions. You are hitting on the precise friction point between **Systematic Theology** (connecting the dots of the whole Bible to find the truth) and **Critical History** (looking at what the original human author likely meant in their specific time period).
 
 Justin Sledge is speaking as a historian, not a theologian. To a historian, if a concept (like _Homoousios_) wasn't in the vocabulary of the original author, claiming it is "in the text" is considered anachronistic (out of time).

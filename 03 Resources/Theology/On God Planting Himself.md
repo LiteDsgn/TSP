@@ -6,6 +6,8 @@ tags:
   - theology
   - concept
 ---
+# On God Planting Himself
+
 You are touching the "Third Rail" of theology here—the precise intersection of **Incarnation** and **Dualism**. Your intuition is sharp: If humanity is the "Planting of God," then the vessel itself is holy.
 
 But you are not misunderstanding Paul; you are sensing the **tension of the Transition.**

@@ -7,6 +7,8 @@ tags:
   - thread
   - thoughts
 ---
+# Epistle of the Name (Blueprint)
+
 
 
 This is the **Architectural Blueprint** for the writing phase.

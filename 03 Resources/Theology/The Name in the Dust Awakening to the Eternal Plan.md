@@ -7,6 +7,8 @@ tags:
   - writing
   - theology
 ---
+# The Name in the Dust Awakening to the Eternal Plan
+
 **Introduction: The Click of Truth**
 
 It is a beautiful thing when a theological concept "clicks." You know the feeling I am talking about. It doesn’t feel like you are learning new information; it feels like a memory returning. It feels like you are remembering something you knew before you were born. That resonance is often the surest sign of truth.
