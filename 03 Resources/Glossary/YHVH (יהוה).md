@@ -7,9 +7,9 @@ tags:
   - hebrew
   - theology
 aliases:
-  -
+  - יהוה
 ---
-# YHVH (יהוה)
+# YHVH (יהוה) (-)
 
 #### Standard Meaning:
 

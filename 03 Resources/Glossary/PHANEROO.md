@@ -4,7 +4,7 @@ updated: 2026-01-22
 type: concept
 tags:
   - glossary
-  - hebrew
+  - greek
   - theology
 ---
 # PHANEROO
