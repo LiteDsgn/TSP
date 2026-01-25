@@ -10,3 +10,6 @@
 
 # Node
 node_modules/
+
+# Sensitive Plugin Data (API Keys, etc.)
+.obsidian/plugins/**/data.json
