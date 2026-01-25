@@ -118,7 +118,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "579158727438304e",
@@ -175,6 +175,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
@@ -186,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d29f124e0df296fe",
+  "active": "f07ac2173b75776e",
   "lastOpenFiles": [
     "03 Resources/Theology/00 Theology Index.md",
     "00 Dashboard/Home Dashboard.md",
