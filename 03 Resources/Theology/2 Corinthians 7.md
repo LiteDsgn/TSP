@@ -5,8 +5,9 @@ type: resource
 tags:
   - theology
   - concept
+  - corinthians
 ---
-# 2 Cor 7
+# 2 Corinthians 7
 
 If **Chapter 6** was about **THE ACCEPTABLE TIME and THE UNEQUAL YOKE** (now is the moment, maintain distinction), then **Chapter 7** is about **THE FRUIT OF REPENTANCE and THE JOY OF RECONCILIATION** (godly grief produces life, relationship restored).
 

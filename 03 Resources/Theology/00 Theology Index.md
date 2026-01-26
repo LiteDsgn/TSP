@@ -10,8 +10,10 @@ banner_icon: 🔖
 
 ---
 
-- [[2 Cor 4 - Treasure in Jars of Clay]]
-- [[2 Cor 7]]
+- [[2 Corinthians 1 - The God of All Comfort]]
+- [[2 Corinthians 4 - Treasure in Jars of Clay]]
+- [[2 Corinthians 7]]
+- [[2 Corinthians 8 - The Economics of Echad]]
 - [[Contradiction  Paradox]]
 - [[Decending and Ascending Truths]]
 - [[Dictionary of the Name]]

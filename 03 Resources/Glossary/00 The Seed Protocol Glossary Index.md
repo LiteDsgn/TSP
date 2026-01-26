@@ -59,6 +59,7 @@ banner_icon: 🔖
 - [[NATA]]
 - [[NEQEBAH]]
 - [[NIGLEH]]
+- [[NISTAR]]
 - [[OLAM]]
 - [[OLETHROS]]
 - [[PANIM]]

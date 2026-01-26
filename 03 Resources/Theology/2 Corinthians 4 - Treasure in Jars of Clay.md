@@ -5,8 +5,9 @@ type: resource
 tags:
   - theology
   - concept
+  - corinthians
 ---
-# Unpacking 2 Corinthians 4: The Treasure in Jars of Clay
+# 2 Corinthians 4 - Treasure in Jars of Clay
 
 If **Chapter 3** was about **THE VEIL REMOVED** (from glory to glory), then **Chapter 4** is about **THE LIGHT REVEALED** (in earthen vessels).
 

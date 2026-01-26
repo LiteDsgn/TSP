@@ -101,9 +101,9 @@ If the Name is a Person (Jesus), and that Person is the Message, then what are w
 
 We are the echo.
 
-Paul tells us in 1 Corinthians 3:16, _"Do you not know that you are God’s temple?"_In the Old Covenant, God put His Name in a [building.In](https://building.In) the New Covenant, **He put His Name in you.**
+Paul tells us in 1 Corinthians 3:16, _"Do you not know that you are God’s temple?"_In the Old Covenant, God put His Name in a building .In the New Covenant, **He put His Name in you.**
 
-This is where the concept becomes an [identity.To](https://identity.To) **"Abide in My Name"** isn't about sitting in a church building. It means to take up residence in the _nature_ of Jesus.
+This is where the concept becomes an identity. To **"Abide in My Name"** isn't about sitting in a church building. It means to take up residence in the _nature_ of Jesus.
 
 - When you love when you want to hate... you are abiding in the Name.
     
@@ -128,7 +128,7 @@ As Galatians 2:20 says, _"It is no longer I who live, but Christ who lives in me
 
 Let's go deeper than the surface.
 
-To **"Call"** (_Qara_ in Hebrew) means to summon, to invoke, to throw your weight [upon.To](https://upon.To) **"Confess"** (_Homologeo_ in Greek) means "to say the same thing as."
+To **"Call"** (_Qara_ in Hebrew) means to summon, to invoke, to throw your weight upon. To **"Confess"** (_Homologeo_ in Greek) means "to say the same thing as."
 
 To "call upon the Name" is not a panicked 911 call to a stranger. It is the cry of a soul that has realized **it has no other source of life.**
 
@@ -175,7 +175,7 @@ We spend our whole lives asking, _"What is God's Name?"_We think if we call Him 
 
 But the Gospel is the Great Reversal.
 
-**God’s Name isn’t what you call [Him.It](https://Him.It)’s who you are to Him.**
+**God’s Name isn’t what you call Him. It ’s who you are to Him.**
 
 Isaiah 43:1 says, _"I have called_ **_you_** _by name; you are Mine."_
 
@@ -194,6 +194,6 @@ The Name of the Lord is not a separate entity you visit on Sundays. It is the fa
 
 So, stop trying to use His Name like a tool.Start wearing His Name like a skin.
 
-You are the [Temple.You](https://Temple.You) are the bearer of the [Mystery.](https://Mystery.You)**[You](https://Mystery.You) are in Him, and He is in you.**
+You are the Temple. You are the bearer of the Mystery. **You are in Him, and He is in you.**
 
-That is the [Name.Now](https://Name.Now), go live it.
+That is the Name. Now, go live it.
