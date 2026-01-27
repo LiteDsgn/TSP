@@ -1,6 +1,6 @@
 ---
 created: 2026-01-22
-updated: 2026-01-22
+updated: 2026-01-26
 type: resource
 tags:
   - theology

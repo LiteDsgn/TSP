@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: 2026-01-25 17:23:46
+updated: 2026-01-26 19:30:43
 type: concept
 aliases:
   - טוֹב

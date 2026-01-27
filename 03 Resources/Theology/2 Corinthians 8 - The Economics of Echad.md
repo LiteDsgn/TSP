@@ -1,6 +1,6 @@
 ---
-created: 2026-01-26
-updated: 2026-01-26
+created: 2026-01-26 10:08:46
+updated: 2026-01-26 23:03:14
 type: resource
 tags:
   - theology
@@ -130,7 +130,7 @@ Paul lists what the Corinthians already have:
 - **Faith** (recognition of **NISTAR** reality)
 - **Speech** (articulation of **[[DABAR]]**)
 - **Knowledge** (not just **Data** but **[[DA'AT]]**—union-knowledge)
-- **Earnestness** (the awakened state from [[2 Corinthians 7]])
+- **Earnestness** (the awakened state from [[2 Corinthians 7 - The Godly Grief That Produces Life]])
 - **Love** (the **[[ECHAD]]** made manifest)
 
 **All of these are evidence of [[YESH]].**
@@ -337,7 +337,7 @@ Here's what most people miss about 2 Corinthians 8:
 
 **This IS deep theology.**
 
-Money is **[[KAVOD]] made portable**. Generosity is **[[ECHAD]] made visible**. The circulation of resources in the Body is the **physical manifestation** of the **spiritual reality** that we are **one substance** in Christ.
+==Money is **[[KAVOD]] made portable**. Generosity is **[[ECHAD]] made visible**. The circulation of resources in the Body is the **physical manifestation** of the **spiritual reality** that we are **one substance** in Christ.==^[Imagine your life, your time, and your energy are gifts from God. When you go to work, you're essentially trading those precious gifts – your "Life" – for money. So, in a way, **money is just your stored-up life.** Since your very life belongs to God, that means the money you earn is actually **God's glory, His weighty presence, made portable.** It's like a piece of His substance you can carry around. Now, if you treat that money carelessly – if you waste it, ignore it, or spend it on things that don't really matter – you're essentially taking God's valuable "substance" and turning it into "vapor." You're taking something weighty and making it weightless. Think of it like this: In the Bible, the word "Dabar" means both "word" and "deed" at the same time. It's a word that _does_ something. Money is similar; it "speaks" and makes things happen – food appears, homes are built, needs are met. So, good stewardship means making sure your money "speaks" the same language as God. Does your spending show "Echad" (unity, love, connection with others) or "Ego" (selfishness, focusing only on yourself)? Therefore, when believers are generous, they are physically manifesting this spiritual reality of their composite unity in Christ. Their giving demonstrates that they understand themselves not as separate individuals, but as interconnected parts of one Body, sharing a common divine substance.]
 
 ### The Three Levels of Giving
 

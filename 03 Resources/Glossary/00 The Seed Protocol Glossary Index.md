@@ -78,6 +78,7 @@ banner_icon: 🔖
 - [[TALAH]]
 - [[TAMIM]]
 - [[TARDEMAH]]
+- [[TEHILLAH]]
 - [[TEMID]]
 - [[TORAH]]
 - [[TOV]]

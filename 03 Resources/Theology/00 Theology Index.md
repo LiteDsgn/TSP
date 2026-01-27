@@ -11,9 +11,13 @@ banner_icon: 🔖
 ---
 
 - [[2 Corinthians 1 - The God of All Comfort]]
+- [[2 Corinthians 2 - The Triumph, The Fragrance, and The Ministry of Life]]
+- [[2 Corinthians 3 - The Ministry of the New Covenant and the Veil Removed]]
 - [[2 Corinthians 4 - Treasure in Jars of Clay]]
-- [[2 Corinthians 7]]
+- [[2 Corinthians 6 - The Acceptable Time and the Unequal Yoke]]
+- [[2 Corinthians 7 - The Godly Grief That Produces Life]]
 - [[2 Corinthians 8 - The Economics of Echad]]
+- [[2 Corinthians 9 - The Multiplication Principle]]
 - [[Contradiction  Paradox]]
 - [[Decending and Ascending Truths]]
 - [[Dictionary of the Name]]
