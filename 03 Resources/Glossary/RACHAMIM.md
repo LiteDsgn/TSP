@@ -22,11 +22,11 @@ The root word is RECHEM (רֶחֶם), meaning WOMB. _Rachamim_ is not an emotion
 #### Paleo-Hebrew Linguistics:
 
 
-- Resh (ר): Head—Person, Beginning
+- Resh (ר): Head - Person, Beginning
     
-- Chet (ח): Fence—Wall, Inner Chamber, Protected
+- Chet (ח): Fence - Wall, Inner Chamber, Protected
     
-- Mem (ם): Water—Life, Chaos, Fluid
+- Mem (ם): Water - Life, Chaos, Fluid
     
 
 #### The Picture:
@@ -44,13 +44,13 @@ The "Fall" did not eject us from God's Womb (for where would we go? There is no 
 #### Scripture(s):
 
 
-- **Acts 17:28** — "In him we live and move and have our being." (The Womb Theology).
+- **Acts 17:28** - "In him we live and move and have our being." (The Womb Theology).
     
-- **Isaiah 49:15** — "Can a woman forget her nursing child, that she should have no compassion [Racham] on the son of her womb?"
+- **Isaiah 49:15** - "Can a woman forget her nursing child, that she should have no compassion [Racham] on the son of her womb?"
     
-- **Exodus 34:6** — "The LORD, the LORD, a God merciful [Rachum] and gracious."
+- **Exodus 34:6** - "The LORD, the LORD, a God merciful [Rachum] and gracious."
     
-- Psalm 103:13 — "As a father shows compassion [Racham] to his children."
+- Psalm 103:13 - "As a father shows compassion [Racham] to his children."
     
 
 #### Narrative Context:

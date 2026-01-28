@@ -22,11 +22,11 @@ Shuv is not just an apology; it is a **COSMIC RETURN TO ORIGIN**. It implies a f
 #### Paleo-Hebrew Linguistics:
 
 
-- Shin (ש): Teeth—Press, Destroy, Fire, Consume
+- Shin (ש): Teeth - Press, Destroy, Fire, Consume
     
-- Vav (ו): Nail—Connector, Hook
+- Vav (ו): Nail - Connector, Hook
     
-- Bet (ב): House—Family, Dwelling
+- Bet (ב): House - Family, Dwelling
     
 
 #### The Picture:
@@ -35,24 +35,24 @@ DESTROYING/PRESSING (Shin) the CONNECTOR (Vav) to the HOUSE (Bet)? Or more accur
 
 #### My Insight:
 
-In the Seed Theory, Shuv is the harvest, the finale. The Seed fell (Adam), died (Mavet), grew (Torah/History), the shell was burned (Lahat), and now Life Returns (Shuv) to the Granary as Fruit. Salvation is not going to a place you have never been; it is Shuv—returning to the Yesh you originated from. The "Prodigal Son" didn't find a new father; he Returned (Shuv) to the Father he always had. Christ is the mechanism of this Return. He is the path of the Seed back to the Source.
+In the Seed Theory, Shuv is the harvest, the finale. The Seed fell (Adam), died (Mavet), grew (Torah/History), the shell was burned (Lahat), and now Life Returns (Shuv) to the Granary as Fruit. Salvation is not going to a place you have never been; it is Shuv - returning to the Yesh you originated from. The "Prodigal Son" didn't find a new father; he Returned (Shuv) to the Father he always had. Christ is the mechanism of this Return. He is the path of the Seed back to the Source.
 
 Through Christ (The Last Adam), the trajectory arcs back to the Father. But notice: We do not return as we left (mere Seeds). We return as **Fruit**.
 
-The "Return" is the moment of **Paraconsistent Victory**—we are still Human (_Dam_), yet we are fully Divine (_Aleph_), reunited in the House (_Bayit_) of God. The Prodigal Son (Humanity) returns, and the Father says, "This my son was dead (_Mavet_), and is alive again."
+The "Return" is the moment of **Paraconsistent Victory** - we are still Human (_Dam_), yet we are fully Divine (_Aleph_), reunited in the House (_Bayit_) of God. The Prodigal Son (Humanity) returns, and the Father says, "This my son was dead (_Mavet_), and is alive again."
 
 #### Scripture(s):
 
 
-- **Psalm 90:3** — "You return man to dust and say, 'Return [Shuv], O children of man!'" (The Cycle of Seed and Harvest).
+- **Psalm 90:3** - "You return man to dust and say, 'Return [Shuv], O children of man!'" (The Cycle of Seed and Harvest).
     
-- **Joel 2:12** — "Return [Shuv] to me with all your heart."
+- **Joel 2:12** - "Return [Shuv] to me with all your heart."
     
-- **Isaiah 55:11** — "My word... shall not return [Shuv] to me empty, but it shall accomplish that which I purpose." (The Monergistic Guarantee).
+- **Isaiah 55:11** - "My word... shall not return [Shuv] to me empty, but it shall accomplish that which I purpose." (The Monergistic Guarantee).
     
-- **Lamentations 5:21** — "Restore [Shuv] us to yourself, O LORD."
+- **Lamentations 5:21** - "Restore [Shuv] us to yourself, O LORD."
     
-- **Psalm 23:3** — "He restores [Shuv] my soul."
+- **Psalm 23:3** - "He restores [Shuv] my soul."
     
 
 #### Narrative Context:

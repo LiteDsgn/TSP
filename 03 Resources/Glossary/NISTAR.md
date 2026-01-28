@@ -21,10 +21,10 @@ NISTAR** is the **HIDDENDIMENSION** of reality, the eternal, complete status of 
 
 #### Paleo-Hebrew Linguistics:
 
-- **Nun (נ):**Seed—Life, Continuity
-- **Samekh (ס):**Support/Prop—To Uphold, Sustain, Circle
-- **Tav (ת):**Mark/Cross—Covenant, Sign, Seal
-- **Resh (ר):**Head—Person, Chief
+- **Nun (נ):**Seed - Life, Continuity
+- **Samekh (ס):**Support/Prop - To Uphold, Sustain, Circle
+- **Tav (ת):**Mark/Cross - Covenant, Sign, Seal
+- **Resh (ר):**Head - Person, Chief
 
 #### The Picture:
 
@@ -41,15 +41,15 @@ We are not "becoming" something God hasn't planned; we are "waking up" to what i
 #### Scripture(s):
 
 
-- **Colossians 3:3**— "For you have died, and your life is hidden [Nistar] with Christ in God."
+- **Colossians 3:3** - "For you have died, and your life is hidden [Nistar] with Christ in God."
     
-- **Isaiah 45:3**— "I will give you the treasures of darkness and the hoards in secret places [Nistar]."
+- **Isaiah 45:3** - "I will give you the treasures of darkness and the hoards in secret places [Nistar]."
     
-- **Ephesians 1:4**— "He chose us in him before the foundation of the world." (The Nistar Decree).
+- **Ephesians 1:4** - "He chose us in him before the foundation of the world." (The Nistar Decree).
     
-- **Revelation 13:8**—"The Lamb slain from the foundation of the world" (Nistar reality before manifestation)
+- **Revelation 13:8** - "The Lamb slain from the foundation of the world" (Nistar reality before manifestation)
     
-- **Matthew 13:35**—"I will utter what has been hidden [Nistar] since the foundation of the world"
+- **Matthew 13:35** - "I will utter what has been hidden [Nistar] since the foundation of the world"
     
 
 #### Narrative Context:

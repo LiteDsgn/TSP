@@ -22,13 +22,13 @@ NIGLEH** is the **REVEALEDDIMENSION** of reality, the movement of truth from the
 #### Paleo-Hebrew Linguistics:
 
 
-- **Nun (נ):** Seed—Life, Continuity, Heir
+- **Nun (נ):** Seed - Life, Continuity, Heir
     
-- **Gimel (ג):** Camel—To Lift Up, Transport, Carry
+- **Gimel (ג):** Camel - To Lift Up, Transport, Carry
     
-- **Lamed (ל):** Staff—Authority, Direction
+- **Lamed (ל):** Staff - Authority, Direction
     
-- **Hey (ה):** Behold—Reveal, Breath, Window
+- **Hey (ה):** Behold - Reveal, Breath, Window
     
 
 #### The Picture:
@@ -46,15 +46,15 @@ We are not "becoming" something God hasn't thought of; we are "awakening" to wha
 #### Scripture(s):
 
 
-- **Deuteronomy 29:29** — "The secret things belong to the LORD... but the things that are revealed [Niglot] belong to us."
+- **Deuteronomy 29:29** - "The secret things belong to the LORD... but the things that are revealed [Niglot] belong to us."
     
-- **Colossians 1:26** — "The mystery hidden for ages... but now made manifest [Nigleh/Phaneroo]."
+- **Colossians 1:26** - "The mystery hidden for ages... but now made manifest [Nigleh/Phaneroo]."
     
-- **1 John 1:2** — "The life was made manifest, and we have seen it."
+- **1 John 1:2** - "The life was made manifest, and we have seen it."
     
-- **Romans 16:25-26** — "The revelation of the mystery that was kept secret [Nistar] for long ages but has now been disclosed [Nigleh/Phaneroo]"
+- **Romans 16:25-26** - "The revelation of the mystery that was kept secret [Nistar] for long ages but has now been disclosed [Nigleh/Phaneroo]"
     
-- **2 Timothy 1:9-10** — "Grace, which he gave us in Christ Jesus before the ages began [Nistar], and which now has been manifested [Nigleh/Phaneroo]"
+- **2 Timothy 1:9-10** - "Grace, which he gave us in Christ Jesus before the ages began [Nistar], and which now has been manifested [Nigleh/Phaneroo]"
     
 
 #### Narrative Context:

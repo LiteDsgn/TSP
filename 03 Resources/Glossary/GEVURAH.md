@@ -22,15 +22,15 @@ Gevurah is **DIVINE** **STRENGTH** expressed as **SEVERITY**, **DISCIPLINE**, an
 #### Paleo-Hebrew Linguistics:
 
 
-- **Gimel (ג):** Foot—Camel, To Walk, Carry, Lift Up
+- **Gimel (ג):** Foot - Camel, To Walk, Carry, Lift Up
     
-- **Bet (ב):** House—Dwelling, Inside, Family
+- **Bet (ב):** House - Dwelling, Inside, Family
     
-- **Vav (ו):** Hook—Connector, Nail
+- **Vav (ו):** Hook - Connector, Nail
     
-- **Resh (ר):** Head—Person, Chief, Beginning
+- **Resh (ר):** Head - Person, Chief, Beginning
     
-- **Hey (ה):** Behold—Reveal, Breath, Window
+- **Hey (ה):** Behold - Reveal, Breath, Window
     
 
 #### The Picture:

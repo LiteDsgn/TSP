@@ -26,7 +26,7 @@ A Greek word meaning "word," "speech," "reason," "logic," or "principle." Used e
 - **Stoics (~300 BC):** Logos is the divine reason permeating all things, the soul of the universe
     
 
-**The Revolutionary Shift:** All Greek philosophy treated Logos as **impersonal**—a principle, a force, a law.
+**The Revolutionary Shift:** All Greek philosophy treated Logos as **impersonal** - a principle, a force, a law.
 
 **John's Scandal:** "The Logos **became flesh**" (John 1:14)
 
@@ -43,15 +43,15 @@ This is **philosophically outrageous**:
 
 #### The Picture:
 
-John reveals the Logos as the **Son**—the "Speech" of the Father.:
+John reveals the Logos as the **Son** - the "Speech" of the Father.:
 
-- The **Logic** by which reality coheres (Colossians 1:17—"in him all things hold together")
+- The **Logic** by which reality coheres (Colossians 1:17 - "in him all things hold together")
     
 - The **Word** that spoke creation into being (Genesis 1, applied to Christ)
     
 - The **Reason** that makes existence intelligible
     
-- The **Expression** of the Father's invisible nature (Hebrews 1:3—"the exact imprint of his nature")
+- The **Expression** of the Father's invisible nature (Hebrews 1:3 - "the exact imprint of his nature")
     
 
 #### My Insight:
@@ -76,7 +76,7 @@ You cannot have a "word" without:
 - A **Medium** that carries (Spirit)
     
 
-**This is not three "parts" of God—it is the tri-unity of how Being manifests.**
+**This is not three "parts" of God - it is the tri-unity of how Being manifests.**
 
 **When John says "the Logos was with God and the Logos was God" (John 1:1), he is revealing:**
 
@@ -84,7 +84,7 @@ You cannot have a "word" without:
     
 - The Logos is **identical** to the Father in essence (was God)
     
-- This is **Echad** (composite unity)—not division, but **relationship within oneness**
+- This is **Echad** (composite unity) - not division, but **relationship within oneness**
     
 
 Jesus as Logos means He is the **Architecture of Reality**. When He says "I AM," He is not just claiming divinity; He is revealing the structure of the universe.
@@ -98,34 +98,34 @@ Jesus as Logos means He is the **Architecture of Reality**. When He says "I AM,"
 
 When God speaks through:
 
-- **Creation** (Genesis 1)—the Logos creates
+- **Creation** (Genesis 1) - the Logos creates
     
-- **Scripture** (Hebrews 1:1)—the Logos reveals
+- **Scripture** (Hebrews 1:1) - the Logos reveals
     
-- **Incarnation** (John 1:14)—the Logos becomes experienceable
+- **Incarnation** (John 1:14) - the Logos becomes experienceable
     
-- **Your awakening** (Ephesians 1:17-18)—the Logos opens eyes
+- **Your awakening** (Ephesians 1:17-18) - the Logos opens eyes
     
 
-**None of these are "different words"—they are the ONE Logos manifesting in different modes.**
+**None of these are "different words" - they are the ONE Logos manifesting in different modes.**
 
 #### Scripture(s):
 
 
-- **John 1:1** — "In the beginning was the Word [Logos], and the Word was with God, and the Word was God."
+- **John 1:1** - "In the beginning was the Word [Logos], and the Word was with God, and the Word was God."
     
-- **John 1:14** — "And the Word [Logos] became flesh and dwelt among us."
+- **John 1:14** - "And the Word [Logos] became flesh and dwelt among us."
     
-- **Colossians 1:15-17** — "He is the image of the invisible God... by him all things were created... in him all things hold together."
+- **Colossians 1:15-17** - "He is the image of the invisible God... by him all things were created... in him all things hold together."
     
-- **Hebrews 1:1-3** — "In these last days he has spoken to us by his Son... he upholds the universe by the word [rhema] of his power."
+- **Hebrews 1:1-3** - "In these last days he has spoken to us by his Son... he upholds the universe by the word [rhema] of his power."
     
-- **Revelation 19:13** — "He is clothed in a robe dipped in blood, and the name by which he is called is The Word [Logos] of God."
+- **Revelation 19:13** - "He is clothed in a robe dipped in blood, and the name by which he is called is The Word [Logos] of God."
     
 
 #### Narrative Context:
 
-The Prologue of John, establishing that the Historical Jesus is the Eternal Logic of God—the _Zera_ (Seed) that contains the whole tree of reality.
+The Prologue of John, establishing that the Historical Jesus is the Eternal Logic of God - the _Zera_ (Seed) that contains the whole tree of reality.
 
   
 

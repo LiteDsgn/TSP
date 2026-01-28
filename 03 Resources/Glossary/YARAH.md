@@ -22,11 +22,11 @@ _Yarah_ is a term of **Ballistics**, not Academics. It describes the act of **Se
 #### Paleo-Hebrew Linguistics:
 
 
-- **Yod (י):** Hand—Work, Power, Throwing, Creation.
+- **Yod (י):** Hand - Work, Power, Throwing, Creation.
     
-- **Resh (ר):** Head—Person, Man, First.
+- **Resh (ר):** Head - Person, Man, First.
     
-- **Hey (ה):** Behold—Reveal, Breath, Spirit.
+- **Hey (ה):** Behold - Reveal, Breath, Spirit.
     
 
 #### The Picture:
@@ -53,18 +53,18 @@ The "Commandments" are not arbitrary barriers; they are **Wind Corrections**.Whe
 - **Trajectory View:** "You are drifting left. Correct 5 degrees right to maintain the line to the Target."
     
 
-Furthermore, considering _Yarah_ as "Rain": The Soil (Flesh) is hard and dry. The Seed cannot break through. The _Yarah_ (Instruction) comes down like rain—not to drown the seed, but to soften the shell and trigger **Germination**. The "Word of God" is the moisture that allows the dry "Old Man" to crack open so the "New Man" can shoot up.
+Furthermore, considering _Yarah_ as "Rain": The Soil (Flesh) is hard and dry. The Seed cannot break through. The _Yarah_ (Instruction) comes down like rain - not to drown the seed, but to soften the shell and trigger **Germination**. The "Word of God" is the moisture that allows the dry "Old Man" to crack open so the "New Man" can shoot up.
 
 #### Scripture(s):
 
 
-- **Genesis 46:28** — "He sent Judah before him to Joseph to show the way [Yarah]..." (Pointing the trajectory).
+- **Genesis 46:28** - "He sent Judah before him to Joseph to show the way [Yarah]..." (Pointing the trajectory).
     
-- **Exodus 15:25** — "And the LORD showed [Yarah] him a tree..." (God shooting/pointing Moses' attention to the cure).
+- **Exodus 15:25** - "And the LORD showed [Yarah] him a tree..." (God shooting/pointing Moses' attention to the cure).
     
-- **Hosea 6:3** — "He will come to us like the rain, like the latter and former rain [Yoreh - from Yarah] to the earth." (The Word as the activation of the Earth/Soil).
+- **Hosea 6:3** - "He will come to us like the rain, like the latter and former rain [Yoreh - from Yarah] to the earth." (The Word as the activation of the Earth/Soil).
     
-- **Psalm 45:5** — "Your arrows are sharp in the heart of the king's enemies." (The Messiah as the ultimate Arrow).
+- **Psalm 45:5** - "Your arrows are sharp in the heart of the king's enemies." (The Messiah as the ultimate Arrow).
     
 
 #### Narrative Context:

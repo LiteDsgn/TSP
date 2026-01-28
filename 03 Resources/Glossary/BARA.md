@@ -17,16 +17,16 @@ The Hebrew verb "to create," typically understood as "making something from noth
 
 #### Hebraic Meaning:
 
-In ANE cognate languages, roots related to BARA carry meanings of "to cut," "to separate," "to clear," or conversely "to fatten" and "to fill." This is NOT manufacturing in the Western sense. BARA is **FUNCTIONAL DIFFERENTIATION**—giving function and definition to substance. In the Yesh-Echad framework, BARA is the act of the Infinite (Aleph) creating **space within itself** to house distinct identities while remaining the only Substance. It is **EMANATION**, not fabrication. The Creator doesn't add material to reality; He **modulates His own Energy** into different frequencies.
+In ANE cognate languages, roots related to BARA carry meanings of "to cut," "to separate," "to clear," or conversely "to fatten" and "to fill." This is NOT manufacturing in the Western sense. BARA is **FUNCTIONAL DIFFERENTIATION** - giving function and definition to substance. In the Yesh-Echad framework, BARA is the act of the Infinite (Aleph) creating **space within itself** to house distinct identities while remaining the only Substance. It is **EMANATION**, not fabrication. The Creator doesn't add material to reality; He **modulates His own Energy** into different frequencies.
 
 #### Paleo-Hebrew Linguistics:
 
 
-- **Bet (ב):** House, Tent—Container, Inside, Dwelling
+- **Bet (ב):** House, Tent - Container, Inside, Dwelling
     
-- **Resh (ר):** Head—Person, First, Beginning, Authority
+- **Resh (ר):** Head - Person, First, Beginning, Authority
     
-- **Aleph (א):** Ox Head—Strength, Power, God, Source
+- **Aleph (א):** Ox Head - Strength, Power, God, Source
     
 
 #### The Picture:
@@ -49,11 +49,11 @@ Without the "Head" (Consciousness), the "House" (Matter) has no reason to exist.
 
 When Genesis 1:1 says "In the beginning God created (BARA)," it's not saying "God started manufacturing." It's saying **"The Source began housing His Consciousness in defined space."**
 
-The **SON (Bar)** is the visible extension of the invisible FATHER (Aleph). Creation is the **structural manifestation** of God—not biologically, but **architecturally**. It is the visible behavior of God.
+The **SON (Bar)** is the visible extension of the invisible FATHER (Aleph). Creation is the **structural manifestation** of God - not biologically, but **architecturally**. It is the visible behavior of God.
 
 **In ANE functional ontology:** Something is only "created" when it has a **NAME** and a **FUNCTION** within cosmic order. BARA is assigning functional identity within the unified field of Divine Energy.
 
-**In Yesh-Echad terms:** To create is to **carve out specific identities** from undifferentiated Infinite Unity. Like an artist cutting a sculpture from marble—the marble was always there; the artist **reveals form** by removing what obscures it.
+**In Yesh-Echad terms:** To create is to **carve out specific identities** from undifferentiated Infinite Unity. Like an artist cutting a sculpture from marble - the marble was always there; the artist **reveals form** by removing what obscures it.
 
 **Therefore:** Creation is not addition of new material (which implies duality: God + Stuff). Creation is **DIFFERENTIATION within Oneness**. The Infinite Energy limiting itself into defined functions.
 
@@ -71,13 +71,13 @@ The **SON (Bar)** is the visible extension of the invisible FATHER (Aleph). Crea
 #### Scripture(s):
 
 
-- Genesis 1:1 — "In the beginning God created [BARA] the heavens and the earth"
+- Genesis 1:1 - "In the beginning God created [BARA] the heavens and the earth"
     
-- Isaiah 40:28 — "The Creator [BORE] of the ends of the earth does not faint or grow weary"
+- Isaiah 40:28 - "The Creator [BORE] of the ends of the earth does not faint or grow weary"
     
-- Isaiah 45:7 — "I form light and create [BARA] darkness, I make peace and create [BARA] calamity"
+- Isaiah 45:7 - "I form light and create [BARA] darkness, I make peace and create [BARA] calamity"
     
-- Psalm 148:5 — "For he commanded and they were created [BARA]"
+- Psalm 148:5 - "For he commanded and they were created [BARA]"
     
 
 #### Narrative Context:

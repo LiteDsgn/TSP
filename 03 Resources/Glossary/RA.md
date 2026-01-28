@@ -19,14 +19,14 @@ tags:
 #### Hebraic Meaning:
 
 
-_Ra_ is the antonym of _Tov_. It does not necessarily mean "demonic"; it means **DYSFUNCTIONAL** or **BROKEN**. It comes from a root meaning "to shatter" or "to spoil." If _Tov_ is functional alignment, _Ra_ is things falling apart. However, the deepest Hebraic meaning—and the one that locks your Non-Dualism in place—is found in its pictographic origin, which defines Evil not as an external monster, but as a **Mode of Perception**.
+_Ra_ is the antonym of _Tov_. It does not necessarily mean "demonic"; it means **DYSFUNCTIONAL** or **BROKEN**. It comes from a root meaning "to shatter" or "to spoil." If _Tov_ is functional alignment, _Ra_ is things falling apart. However, the deepest Hebraic meaning - and the one that locks your Non-Dualism in place - is found in its pictographic origin, which defines Evil not as an external monster, but as a **Mode of Perception**.
 
 #### Paleo-Hebrew Linguistics:
 
 
-- **Resh (ר):** Head of a man—Person, Intelligence, Authority, Ego
+- **Resh (ר):** Head of a man - Person, Intelligence, Authority, Ego
     
-- **Ayin (ע):** Eye—To See, Experience, Perception, Outlook
+- **Ayin (ע):** Eye - To See, Experience, Perception, Outlook
     
 
 #### The Picture:
@@ -42,13 +42,13 @@ This is the most "proof-resistant" entry in your entire dictionary. Look at the 
 #### Scripture(s):
 
 
-- **Genesis 2:9** — "The tree of the knowledge of good and evil [Ra]."
+- **Genesis 2:9** - "The tree of the knowledge of good and evil [Ra]."
     
-- **Isaiah 45:7** — "I make peace and create evil [Ra]; I am the LORD, who does all these things." (Monistic Sovereignty).
+- **Isaiah 45:7** - "I make peace and create evil [Ra]; I am the LORD, who does all these things." (Monistic Sovereignty).
     
-- **Proverbs 3:7** — "Be not wise in your own eyes [Head-Seeing]; fear the LORD, and turn away from evil [Ra]."
+- **Proverbs 3:7** - "Be not wise in your own eyes [Head-Seeing]; fear the LORD, and turn away from evil [Ra]."
     
-- **Jeremiah 2:13** — "For my people have committed two evils [Ra]: they have forsaken me... and hewed out cisterns for themselves." (Ra is disconnection).
+- **Jeremiah 2:13** - "For my people have committed two evils [Ra]: they have forsaken me... and hewed out cisterns for themselves." (Ra is disconnection).
     
 
 #### Narrative Context:

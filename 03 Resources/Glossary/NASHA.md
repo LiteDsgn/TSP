@@ -22,11 +22,11 @@ NASHA** is not factual deception (believing a lie) but **CONSCIOUSNESS** **DISPL
 #### Paleo-Hebrew Linguistics:
 
 
-- **Nun (נ):** Seed—Life, Heir, Continuity
+- **Nun (נ):** Seed - Life, Heir, Continuity
     
-- **Shin (ש):** Teeth—Consume, Press, Transform, Destroy
+- **Shin (ש):** Teeth - Consume, Press, Transform, Destroy
     
-- **Aleph (א):** Ox Head—Strength, God, Source, First
+- **Aleph (א):** Ox Head - Strength, God, Source, First
     
 
 #### The Picture:

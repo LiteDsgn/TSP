@@ -13,7 +13,7 @@ tags:
 
 #### Standard Meaning:
 
-The active participle of BARA—"Creator," "the One who creates." Typically understood as the divine Manufacturer.
+The active participle of BARA - "Creator," "the One who creates." Typically understood as the divine Manufacturer.
 
 #### Hebraic Meaning:
 
@@ -22,13 +22,13 @@ The ACTIVE AGENT, the BINDING FORCE, the Energy that **connects** the Source to 
 #### Paleo-Hebrew Linguistics:
 
 
-- **Bet (ב):** House—Container
+- **Bet (ב):** House - Container
     
-- **Vav (ו):** Nail, Hook—Connector, Bridge
+- **Vav (ו):** Nail, Hook - Connector, Bridge
     
-- **Resh (ר):** Head—Authority, First
+- **Resh (ר):** Head - Authority, First
     
-- **Aleph (א):** Source—God, Strength
+- **Aleph (א):** Source - God, Strength
     
 
 #### The Picture:
@@ -43,7 +43,7 @@ The Creator (BORE) is not a distant manufacturer who made things and walked away
 
 **He IS the Vav (Nail) that holds atoms together.**
 
-This is **COLOSSIANS 1:17** encoded in Hebrew: "By him all things consist (hold together)"—He is the tension that keeps the universe spinning. Without the Monoergetic flow of the Creator, reality **dissolves**.
+This is **COLOSSIANS 1:17** encoded in Hebrew: "By him all things consist (hold together)" - He is the tension that keeps the universe spinning. Without the Monoergetic flow of the Creator, reality **dissolves**.
 
 **The distinction:**
 
@@ -70,11 +70,11 @@ This is pure Yesh-Echad: **"Nature" is simply God slowing down His vibration to 
 #### Scripture(s):
 
 
-- Isaiah 40:28 — "Have you not known? Have you not heard? The LORD is the everlasting God, the Creator [BORE] of the ends of the earth"
+- Isaiah 40:28 - "Have you not known? Have you not heard? The LORD is the everlasting God, the Creator [BORE] of the ends of the earth"
     
-- Ecclesiastes 12:1 — "Remember also your Creator [BORE] in the days of your youth"
+- Ecclesiastes 12:1 - "Remember also your Creator [BORE] in the days of your youth"
     
-- Isaiah 43:15 — "I am the LORD, your Holy One, the Creator [BORE] of Israel, your King"
+- Isaiah 43:15 - "I am the LORD, your Holy One, the Creator [BORE] of Israel, your King"
     
 
 #### Narrative Context:

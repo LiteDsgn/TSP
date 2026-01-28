@@ -19,18 +19,18 @@ tags:
 
 #### Hebraic Meaning:
 
-Derived from the root **Yarah**, meaning "To shoot an arrow," "To cast forth rain," or "To point the way." In this framework, Torah is the **TRAJECTORY OF THE SEED**. It is the Divine Ballistics system designed to ensure the Arrow (Adam) hits the Mark (Christ). It is the opposite of _Chata_ (Sin - missing the mark). Crucially, Torah is the **DESCRIPTION OF CAPACITY**. It is the architectural schematic of the Human Vessel (_Keli_) designed to hold the Infinite Voltage (_Kavod_). It is not a list of restrictions for a servant; it is the **Identity Document** of the Son. It describes what the "New Man" looks like when he is structurally integral (_Tamim_) and fully insulated (_Kadosh_) to house the Presence.
+Derived from the root **Yarah**, meaning "To shoot an arrow," "To cast forth rain," or "To point the way." **Torah is the TRAJECTORY OF THE SEED**. It is the Divine Ballistics system designed to ensure the Arrow (Adam) hits the Mark (Christ). It is the opposite of _Chata_ (Sin - missing the mark). Crucially, Torah is the **DESCRIPTION OF CAPACITY**. It is the architectural schematic of the Human Vessel (_Keli_) designed to hold the Infinite Voltage (_Kavod_). It is not a list of restrictions for a servant; it is the **Identity Document** of the Son. It describes what the "New Man" looks like when he is structurally integral (_Tamim_) and fully insulated (_Kadosh_) to house the Presence.
 
 #### Paleo-Hebrew Linguistics:
 
 
-- Tav (ת): Cross—Mark, Sign, Covenant
+- Tav (ת): Cross - Mark, Sign, Covenant
     
-- Vav (ו): Nail—Connector, Hook
+- Vav (ו): Nail - Connector, Hook
     
-- Resh (ר): Head—Person, Man
+- Resh (ר): Head - Person, Man
     
-- Hey (ה): Behold—Reveal, Breath
+- Hey (ה): Behold - Reveal, Breath
     
 
 #### The Picture:
@@ -40,7 +40,7 @@ BEHOLD (Hey) the MAN (Resh) NAILED (Vav) to the CROSS/MARK (Tav). Or: **The REVE
 #### My Insight:
 
 
-This is the _ultimate proof_ of **Christocentrism** in this framework. The Paleo-Hebrew literally spells out the Gospel. Torah is the "Gardening Manual" for the Seed. It was never about "saving yourself by works" - Adam (the Seed); it was given to guide the trajectory of history so that the Seed would correctly develop into the Messiah (revealing the **Pattern of the Seed**). The Seed (Adam) had to follow a specific trajectory of death and resurrection. The Torah codified this trajectory (Sacrifice, Priesthood, Tabernacle)
+**This is the _ultimate proof_ of Christocentrism**. The Paleo-Hebrew literally spells out the Gospel. Torah is the "Gardening Manual" for the Seed. It was never about "saving yourself by works" - Adam (the Seed); it was given to guide the trajectory of history so that the Seed would correctly develop into the Messiah (revealing the **Pattern of the Seed**). The Seed (Adam) had to follow a specific trajectory of death and resurrection. The Torah codified this trajectory (Sacrifice, Priesthood, Tabernacle)
 
 This framework also redefines the "Law" from a **Prescription of Behavior** to a **Mirror of Identity**. When God spoke at Sinai, He was holding up a Mirror to the Amnesiac Seed (Adam in the Soil). He was saying: _"Look at this description. This is You. You are Holy. You are One. You are the Tabernacle."_
 
@@ -52,19 +52,19 @@ This framework also redefines the "Law" from a **Prescription of Behavior** to a
 #### Scripture(s):
 
 
-- **Romans 10:4** — "For Christ is the end [goal] of the law [Torah]."
+- **Romans 10:4** - "For Christ is the end [goal] of the law [Torah]."
     
-- **Psalm 40:7-8** — "Then I said, 'Behold, I have come; in the scroll of the book [Torah] it is written of me'."
+- **Psalm 40:7-8** - "Then I said, 'Behold, I have come; in the scroll of the book [Torah] it is written of me'."
     
-- **John 5:46** — "If you believed Moses, you would believe me; for he wrote of me."
+- **John 5:46** - "If you believed Moses, you would believe me; for he wrote of me."
     
-- **James 1:23-25** — "...he is like a man observing his natural face in a mirror... But he who looks into the perfect law [Torah] of liberty..." (Torah as the Mirror of Nature).
+- **James 1:23-25** - "...he is like a man observing his natural face in a mirror... But he who looks into the perfect law [Torah] of liberty..." (Torah as the Mirror of Nature).
     
-- **Hebrews 10:1** — "For the law having a shadow of good things to come..." (The Shadow proving the Substance/Yesh).
+- **Hebrews 10:1** - "For the law having a shadow of good things to come..." (The Shadow proving the Substance/Yesh).
     
-- **Proverbs 6:23** — "For the commandment is a lamp and the teaching [Torah] a light."
+- **Proverbs 6:23** - "For the commandment is a lamp and the teaching [Torah] a light."
     
-- **Psalm 119:142** — "Your law [Torah] is truth [Emet]."
+- **Psalm 119:142** - "Your law [Torah] is truth [Emet]."
     
 
 #### Narrative Context:

@@ -33,15 +33,15 @@ The Parakletos functions identically to the **RUACH** (רוּחַ) in Hebrew tho
 #### Scripture(s):
 
 
-- **John 14:16**—"And I will ask the Father, and he will give you another Parakletos to be with you forever"
+- **John 14:16** - "And I will ask the Father, and he will give you another Parakletos to be with you forever"
     
-- **John 14:26**—"But the Parakletos, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance [Zakar] all that I have said to you"
+- **John 14:26** - "But the Parakletos, the Holy Spirit, whom the Father will send in my name, he will teach you all things and bring to your remembrance [Zakar] all that I have said to you"
     
-- **John 15:26**—"But when the Parakletos comes, whom I will send to you from the Father, the Spirit of truth"
+- **John 15:26** - "But when the Parakletos comes, whom I will send to you from the Father, the Spirit of truth"
     
-- **John 16:7**—"Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Parakletos will not come to you"
+- **John 16:7** - "Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Parakletos will not come to you"
     
-- **1 John 2:1**—"But if anyone does sin, we have a Parakletos with the Father, Jesus Christ the righteous" (Jesus as external Parakletos in heaven)
+- **1 John 2:1** - "But if anyone does sin, we have a Parakletos with the Father, Jesus Christ the righteous" (Jesus as external Parakletos in heaven)
     
 
 #### Narrative Context:

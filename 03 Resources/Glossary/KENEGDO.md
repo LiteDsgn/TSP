@@ -23,15 +23,15 @@ Kenegdo is **THE** **MIRROR** **IN** **THE** **DOORWAY**, the one who stands **O
 
 The compound breaks down as:
 
-- **Kaph (כ):** Open Palm—Like, As, Capacity
+- **Kaph (כ):** Open Palm - Like, As, Capacity
     
-- **Nun (נ):** Seed—Life, Continuity, Heir
+- **Nun (נ):** Seed - Life, Continuity, Heir
     
-- **Gimel (ג):** Foot—To Walk, Carry, Lift
+- **Gimel (ג):** Foot - To Walk, Carry, Lift
     
-- **Dalet (ד):** Door—Pathway, Entrance, Movement
+- **Dalet (ד):** Door - Pathway, Entrance, Movement
     
-- **Vav (ו):** Hook—Connector, "Him"
+- **Vav (ו):** Hook - Connector, "Him"
     
 
 #### The Picture:

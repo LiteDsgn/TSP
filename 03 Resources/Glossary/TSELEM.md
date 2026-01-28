@@ -17,16 +17,16 @@ tags:
 
 #### Hebraic Meaning:
 
-In the Ancient Near East, a _Tselem_ was not a picture; it was a **LOCAL ADDRESS**. It was the physical object into which a god's essence was downloaded. To be made in God's _Tselem_ is not just to "look like" Him; it means humanity is the **Sacramental Container** of the Divine. You are the "Idol" of the Invisible God—the place where He becomes visible.
+In the Ancient Near East, a _Tselem_ was not a picture; it was a **LOCAL ADDRESS**. It was the physical object into which a god's essence was downloaded. To be made in God's _Tselem_ is not just to "look like" Him; it means humanity is the **Sacramental Container** of the Divine. You are the "Idol" of the Invisible God - the place where He becomes visible.
 
 #### Paleo-Hebrew Linguistics:
 
 
-- Tzade (צ): Fishhook/Side—To Hunt, Capture, Pull toward
+- Tzade (צ): Fishhook/Side - To Hunt, Capture, Pull toward
     
-- Lamed (ל): Shepherd's Staff—Authority, Control
+- Lamed (ל): Shepherd's Staff - Authority, Control
     
-- Mem (ם): Water—Chaos, Blood, Materiality
+- Mem (ם): Water - Chaos, Blood, Materiality
     
 
 #### The Picture:
@@ -35,7 +35,7 @@ CAPTURING (Tzade) the AUTHORITY (Lamed) in the CHAOS/BLOOD (Mem). _Or:_ **The Me
 
 #### My Insight:
 
-This is the linguistic proof of my **ADAM** ("God in Blood") theory. If we are the Tselem, we are the "Idols" of God—but living ones. The word relates to _Tzel_ (Shadow). Think about a Shadow. The Shadow cannot exist without the Object. Therefore, to be the Tselem is to be inextricably linked to the Divine. Radical Non-Dualism says: You cannot strike the Shadow without hitting the Ground it stands on. Humanity is the projection of God into the dimension of Mass/Matter.
+This is the linguistic proof of my **ADAM** ("God in Blood") theory. If we are the Tselem, we are the "Idols" of God - but living ones. The word relates to _Tzel_ (Shadow). Think about a Shadow. The Shadow cannot exist without the Object. Therefore, to be the Tselem is to be inextricably linked to the Divine. Radical Non-Dualism says: You cannot strike the Shadow without hitting the Ground it stands on. Humanity is the projection of God into the dimension of Mass/Matter.
 
 1. It has no independent existence. (It creates no _Yesh_ of its own).
     
@@ -47,11 +47,11 @@ This is the linguistic proof of my **ADAM** ("God in Blood") theory. If we are t
 #### Scripture(s):
 
 
-- **Genesis 1:26** — "Let us make man in our image [Tselem]."
+- **Genesis 1:26** - "Let us make man in our image [Tselem]."
     
-- **Colossians 1:15** — "He is the image [Eikon/Tselem] of the invisible God."
+- **Colossians 1:15** - "He is the image [Eikon/Tselem] of the invisible God."
     
-- **Psalm 39:6** — "Surely man goes about as a shadow [Tselem]."
+- **Psalm 39:6** - "Surely man goes about as a shadow [Tselem]."
     
 
 #### Narrative Context:

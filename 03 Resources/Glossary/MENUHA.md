@@ -22,13 +22,13 @@ _Menuha_ is not the absence of activity; it is the **Absence of Friction**. It i
 #### Paleo-Hebrew Linguistics:
 
 
-- **Mem (מ):** Water—Chaos, Mighty.
+- **Mem (מ):** Water - Chaos, Mighty.
     
-- **Nun (נ):** Seed—Life, Heir, Fish, Activity.
+- **Nun (נ):** Seed - Life, Heir, Fish, Activity.
     
-- **Vav (ו):** Nail—Connector.
+- **Vav (ו):** Nail - Connector.
     
-- **Het (ח):** Fence—Inner Room, Separation, Sanctuary.
+- **Het (ח):** Fence - Inner Room, Separation, Sanctuary.
     
 
 #### The Picture:
@@ -42,13 +42,13 @@ _Menuha_ is the **Docking Station** for the Infinite.God asked, "Where is the ho
 #### Scripture(s):
 
 
-- **Psalm 23:2** — "He leads me beside still waters [Mai Menuhot]." (The waters of rest).
+- **Psalm 23:2** - "He leads me beside still waters [Mai Menuhot]." (The waters of rest).
     
-- **Isaiah 66:1** — "Where is the place of my rest [Menuha]?" (God seeking the Human Vessel).
+- **Isaiah 66:1** - "Where is the place of my rest [Menuha]?" (God seeking the Human Vessel).
     
-- **Hebrews 4:3** — "For we who have believed enter that rest." (Rest as a product of Trust/Faith, not inactivity).
+- **Hebrews 4:3** - "For we who have believed enter that rest." (Rest as a product of Trust/Faith, not inactivity).
     
-- **Matthew 11:28** — "Come to me... and I will give you rest." (Jesus is the embodiment of Menuha).
+- **Matthew 11:28** - "Come to me... and I will give you rest." (Jesus is the embodiment of Menuha).
     
 
 #### Narrative Context:

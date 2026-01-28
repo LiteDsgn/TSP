@@ -17,16 +17,16 @@ tags:
 
 #### Hebraic Meaning:
 
-In the Tabernacle, the pans, bowls, and tools were all _Kelim_. A _Keli_ is defined by its **Void** (Capacity) and its **Purpose**. In this framework, **You are the Keli**. The Torah is the "User Manual" describing the shape and limits of the Keli. A Keli exists to serve the Master. It has no independent will; its glory is in its utility. It transforms "Raw Potential" into "Usable Service."
+In the Tabernacle, the pans, bowls, and tools were all _Kelim_. A _Keli_ is defined by its **Void** (Capacity) and its **Purpose**. **Ultimately, You are the Keli**. The Torah is the "User Manual" describing the shape and limits of the Keli. A Keli exists to serve the Master. It has no independent will; its glory is in its utility. It transforms "Raw Potential" into "Usable Service."
 
 #### Paleo-Hebrew Linguistics:
 
 
-- **Kaf (כ):** Palm/Open Hand—Curve, Cup, To Cover/Allow.
+- **Kaf (כ):** Palm/Open Hand - Curve, Cup, To Cover/Allow.
     
-- **Lamed (ל):** Shepherd Staff—Authority, To Lead, Tongue/Voice.
+- **Lamed (ל):** Shepherd Staff - Authority, To Lead, Tongue/Voice.
     
-- **Yod (י):** Hand—Work, Deed.
+- **Yod (י):** Hand - Work, Deed.
     
 
 #### The Picture:
@@ -45,11 +45,11 @@ _Keli_ represents the **Paradox of Emptiness**. To be a useful _Keli_ for the In
 #### Scripture(s):
 
 
-- **Jeremiah 18:4** — "And the vessel [Keli] that he made of clay was marred in the hand of the potter; so he made it again into another vessel." (Monergistic reshaping).
+- **Jeremiah 18:4** - "And the vessel [Keli] that he made of clay was marred in the hand of the potter; so he made it again into another vessel." (Monergistic reshaping).
     
-- **Acts 9:15** — "He is a chosen vessel [Keli] of Mine to bear My name." (Paul's Identity as a container).
+- **Acts 9:15** - "He is a chosen vessel [Keli] of Mine to bear My name." (Paul's Identity as a container).
     
-- **2 Corinthians 4:7** — "But we have this treasure in earthen vessels [Kelim]." (The contrast between the Finite Clay and the Infinite Glory).
+- **2 Corinthians 4:7** - "But we have this treasure in earthen vessels [Kelim]." (The contrast between the Finite Clay and the Infinite Glory).
     
 
 #### Narrative Context:

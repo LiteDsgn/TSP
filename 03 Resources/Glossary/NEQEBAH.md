@@ -22,13 +22,13 @@ NEQEBAH** is not merely biological designation but represents the **RECEPTIVE**,
 #### Paleo-Hebrew Linguistics:
 
 
-- **Nun (נ):** Seed—Life, Continuity, Heir
+- **Nun (נ):** Seed - Life, Continuity, Heir
     
-- **Qoph (ק):** Horizon—Back of Head, Cycle, Circle, End/Beginning
+- **Qoph (ק):** Horizon - Back of Head, Cycle, Circle, End/Beginning
     
-- **Bet (ב):** House—Dwelling, Inside, Family
+- **Bet (ב):** House - Dwelling, Inside, Family
     
-- **Hey (ה):** Behold—Reveal, Breath, Window
+- **Hey (ה):** Behold - Reveal, Breath, Window
     
 
 #### The Picture:

@@ -24,11 +24,11 @@ The Nachash is the AGENT OF DUALITY. He is the "Whisperer" who suggests that the
 #### Paleo-Hebrew Linguistics:
 
 
-- Nun (נ): Seed—Life, Heir
+- Nun (נ): Seed - Life, Heir
     
-- Chet (ח): Fence—Separation, Wall
+- Chet (ח): Fence - Separation, Wall
     
-- Shin (ש): Teeth—Press, Destroy, Consume
+- Shin (ש): Teeth - Press, Destroy, Consume
     
 
 #### The Picture:
@@ -44,9 +44,9 @@ In your Non-Dual framework, the Nachash represents the "Mind of the Flesh" or th
 #### Scripture(s):
 
 
-- Genesis 3:1 — "Now the serpent [Nachash] was more crafty than any other beast."
+- Genesis 3:1 - "Now the serpent [Nachash] was more crafty than any other beast."
     
-- Numbers 21:9 — "Moses made a bronze serpent [Nachash]..." (The agent of death becomes the sign of healing when lifted up/exposed).
+- Numbers 21:9 - "Moses made a bronze serpent [Nachash]..." (The agent of death becomes the sign of healing when lifted up/exposed).
     
 
 #### Narrative Context:

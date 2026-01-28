@@ -17,16 +17,16 @@ tags:
 
 #### Hebraic Meaning:
 
-_Chesed_ is **COVENANT FAITHFULNESS** expressed through relentless kindness. It is not mere sentiment, but the **ACTIVE COMMITMENT** of the stronger party to sustain the weaker party regardless of merit or reciprocation. In the Yesh-Echad framework, _Chesed_ represents the sustaining force of the _Ruach_ (Spirit) working from within the Seed during burial, maintaining the connection to Source even when the shell experiences only pressure and darkness. It is God's refusal to let go—the mercy that flows _FROM_ covenant relationship, not _TO_ establish it.
+_Chesed_ is **COVENANT FAITHFULNESS** expressed through relentless kindness. It is not mere sentiment, but the **ACTIVE COMMITMENT** of the stronger party to sustain the weaker party regardless of merit or reciprocation. In the Yesh-Echad framework, _Chesed_ represents the sustaining force of the _Ruach_ (Spirit) working from within the Seed during burial, maintaining the connection to Source even when the shell experiences only pressure and darkness. It is God's refusal to let go - the mercy that flows _FROM_ covenant relationship, not _TO_ establish it.
 
 #### Paleo-Hebrew Linguistics:
 
 
-- **Chet (ח):** Fence — Inner Chamber, Sanctuary, Protected Space
+- **Chet (ח):** Fence - Inner Chamber, Sanctuary, Protected Space
     
-- **Samekh (ס):** Support — To Uphold, Thorn, Prop
+- **Samekh (ס):** Support - To Uphold, Thorn, Prop
     
-- **Dalet (ד):** Door — Pathway, Entrance, Movement
+- **Dalet (ד):** Door - Pathway, Entrance, Movement
     
 
 #### The Picture:
@@ -51,11 +51,11 @@ Together they ensure that Mavet (death of shell) leads to Resurrection (emergenc
     
 - **Psalm 136:** "His _chesed_ endures forever" (The structural refrain of reality).
     
-- **Exodus 34:6:** — "The LORD... abounding in chesed and faithfulness [emet]"
+- **Exodus 34:6:** - "The LORD... abounding in chesed and faithfulness [emet]"
     
-- **Micah 7:18:** — "He delights in chesed" (God's pleasure is in covenant loyalty)
+- **Micah 7:18:** - "He delights in chesed" (God's pleasure is in covenant loyalty)
     
-- **Ephesians 2:4:** — "But God, being rich in mercy [chesed]... made us alive together with Christ"
+- **Ephesians 2:4:** - "But God, being rich in mercy [chesed]... made us alive together with Christ"
     
 
 #### Narrative Context:

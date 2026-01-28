@@ -24,13 +24,13 @@ Panim is always plural, implying the multifaceted nature of presence. To seek so
 #### Paleo-Hebrew Linguistics:
 
 
-- Pey (פ): Mouth—Speech, Edge
+- Pey (פ): Mouth - Speech, Edge
     
-- Nun (נ): Seed—Life, Heir
+- Nun (נ): Seed - Life, Heir
     
-- Yod (י): Hand—Work, Deed
+- Yod (י): Hand - Work, Deed
     
-- Mem (ם): Water—Chaos, Massivity
+- Mem (ם): Water - Chaos, Massivity
     
 
 #### The Picture:
@@ -41,21 +41,21 @@ The MOUTH (Pey) SPEAKING LIFE (Nun) through DEEDS (Yod) in the CHAOS (Mem).Insig
 #### My Insight:
 
 
-This validates your "You + I" theory. In Exodus, God speaks to Moses "Face to Face" (Panim el Panim). In a mirror, you see your own face. Radical Non-Dualism suggests that when we gaze into the Panim of God, we find our true Identity. We are the reflection of His Face in the world. The "Beatific Vision" is a moment of Recognition—realizing that the Face you are looking for is the Source of the Face you are wearing (Tselem).
+This validates your "You + I" theory. In Exodus, God speaks to Moses "Face to Face" (Panim el Panim). In a mirror, you see your own face. Radical Non-Dualism suggests that when we gaze into the Panim of God, we find our true Identity. We are the reflection of His Face in the world. The "Beatific Vision" is a moment of Recognition - realizing that the Face you are looking for is the Source of the Face you are wearing (Tselem).
 
 #### Scripture(s):
 
 
-- Exodus 33:14 — "My presence [Panim] will go with you, and I will give you rest."
+- Exodus 33:14 - "My presence [Panim] will go with you, and I will give you rest."
     
-- Psalm 27:8 — "Your face [Panim], LORD, do I seek."
+- Psalm 27:8 - "Your face [Panim], LORD, do I seek."
     
-- Numbers 6:25 — "The LORD make his face [Panim] to shine upon you."
+- Numbers 6:25 - "The LORD make his face [Panim] to shine upon you."
     
 
 #### Narrative Context:
 
 
-The ultimate goal of the Covenant—to dwell in God's face/presence. The defining mark of the Tabernacle.
+The ultimate goal of the Covenant - to dwell in God's face/presence. The defining mark of the Tabernacle.
 
 ---
