@@ -47,13 +47,13 @@ This demolishes the Greek dualistic view of creation. The pictographs reveal tha
 
 Without the "Head" (Consciousness), the "House" (Matter) has no reason to exist. The universe is the **Tent where the Mind of God sits**. This validates Yesh-Echad: The Container and the Content are part of the same Monoergetic system.
 
-When Genesis 1:1 says "In the beginning God created (BARA)," it's not saying "God started manufacturing." It's saying **"The Source began housing His Consciousness in defined space."**
+When Genesis 1:1 says "In the beginning God created (BARA)," it's not saying "God started manufacturing." It's saying **"The Source began housing His Consciousness, and that defined space."**
 
 The **SON (Bar)** is the visible extension of the invisible FATHER (Aleph). Creation is the **structural manifestation** of God - not biologically, but **architecturally**. It is the visible behavior of God.
 
 **In ANE functional ontology:** Something is only "created" when it has a **NAME** and a **FUNCTION** within cosmic order. BARA is assigning functional identity within the unified field of Divine Energy.
 
-**In Yesh-Echad terms:** To create is to **carve out specific identities** from undifferentiated Infinite Unity. Like an artist cutting a sculpture from marble - the marble was always there; the artist **reveals form** by removing what obscures it.
+**In Yesh-Echad terms:** To create is to **carve out specific identities** from undifferentiated Infinite Unity. It is not an artist working on external marble, but the Infinite **sculpting Himself**. The Artist *is* the Marble; the act of Creation is the Source **defining specific forms** within His own Substance.
 
 **Therefore:** Creation is not addition of new material (which implies duality: God + Stuff). Creation is **DIFFERENTIATION within Oneness**. The Infinite Energy limiting itself into defined functions.
 

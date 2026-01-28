@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Resources/Theology/2 Corinthians 9 - The Multiplication Principle.md",
+                "file": "03 Resources/Theology/2 Corinthians 10 - The Warfare of Architecture.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Corinthians 9 - The Multiplication Principle"
+              "title": "2 Corinthians 10 - The Warfare of Architecture"
             }
           }
         ],
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03 Resources/Theology/The God of the Hallucination.md",
+            "file": "03 Resources/Theology/2 Corinthians 10 - The Warfare of Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "56144e7f077f9925",
+  "active": "d29f124e0df296fe",
   "lastOpenFiles": [
+    "03 Resources/Theology/2 Corinthians 9 - The Multiplication Principle.md",
     "03 Resources/Theology/The God of the Hallucination.md",
     "03 Resources/Theology/00 Theology Index.md",
     "00 Dashboard/Home Dashboard.md",
@@ -228,7 +229,6 @@
     "03 Resources/Theology/THE SUPRA-LOGICAL GOD A THEOLOGICAL SYNTHESIS.md",
     "01 Projects/Website Articles/THE ARCHITECTURE OF IDENTITY.md",
     "01 Projects/Books/The Epistle of the Name A Letter to the Sprouting Church.md",
-    "04 Archives/To Sort/To Sort Index.md",
     "TSP Glossary",
     "Template"
   ]

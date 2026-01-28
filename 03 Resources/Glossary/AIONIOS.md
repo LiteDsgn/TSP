@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: 2026-01-28 02:51:19
+updated: 2026-01-28 10:57:47
 type: concept
 aliases:
   - αἰώνιος
@@ -30,7 +30,7 @@ AIONIOS means "BELONGING TO THE AGE/AION" or "AGE-LONG," not necessarily "infini
 
 #### The Picture:
 
-(conceptual):**
+**(conceptual):**
 That which belongs to THE AGE or THE AION - God's time-frame as opposed to human time-frame, the QUALITY of divine existence as opposed to the QUANTITY of endless duration. Like saying "presidential" doesn't mean the presidency lasts forever, but describes something belonging to the president's term/era/authority.
 
 #### My Insight:
