@@ -41,7 +41,7 @@ The MOUTH (Pey) SPEAKING LIFE (Nun) through DEEDS (Yod) in the CHAOS (Mem).Insig
 #### My Insight:
 
 
-This validates your "You + I" theory. In Exodus, God speaks to Moses "Face to Face" (Panim el Panim). In a mirror, you see your own face. Radical Non-Dualism suggests that when we gaze into the Panim of God, we find our true Identity. We are the reflection of His Face in the world. The "Beatific Vision" is a moment of Recognition - realizing that the Face you are looking for is the Source of the Face you are wearing (Tselem).
+This validates the "You + I" principle. In Exodus, God speaks to Moses "Face to Face" (Panim el Panim). In a mirror, you see your own face. Radical Non-Dualism suggests that when we gaze into the Panim of God, we find our true Identity. We are the reflection of His Face in the world. The "Beatific Vision" is a moment of Recognition - realizing that the Face you are looking for is the Source of the Face you are wearing (Tselem).
 
 #### Scripture(s):
 

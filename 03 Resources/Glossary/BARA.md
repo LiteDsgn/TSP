@@ -17,7 +17,7 @@ The Hebrew verb "to create," typically understood as "making something from noth
 
 #### Hebraic Meaning:
 
-In ANE cognate languages, roots related to BARA carry meanings of "to cut," "to separate," "to clear," or conversely "to fatten" and "to fill." This is NOT manufacturing in the Western sense. BARA is **FUNCTIONAL DIFFERENTIATION** - giving function and definition to substance. In the Yesh-Echad framework, BARA is the act of the Infinite (Aleph) creating **space within itself** to house distinct identities while remaining the only Substance. It is **EMANATION**, not fabrication. The Creator doesn't add material to reality; He **modulates His own Energy** into different frequencies.
+In ANE cognate languages, roots related to BARA carry meanings of "to cut," "to separate," "to clear," or conversely "to fatten" and "to fill." This is NOT manufacturing in the Western sense. BARA is **FUNCTIONAL DIFFERENTIATION** - giving function and definition to substance. **BARA** is the act of the Infinite (Aleph) creating **space within itself** to house distinct identities while remaining the only Substance. It is **EMANATION**, not fabrication. The Creator doesn't add material to reality; He **modulates His own Energy** into different frequencies.
 
 #### Paleo-Hebrew Linguistics:
 

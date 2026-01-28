@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-Dabar is not merely acoustic vibration or written symbols. It is **DYNAMIC EVENT-REALITY** - the ontological force that simultaneously _IS_ and _DOES_. In the Yesh-Echad framework, Dabar represents the **movement of Being into manifestation**. When God "speaks" a Dabar, He is not transmitting information packets; He is releasing a force that creates, sustains, and transforms reality. A Dabar is not "about" something - it _is_ that something coming into being. It collapses the Western distinction between "word" (speech) and "deed" (action). Dabar is the **action of existence** rather than the description of it.
+Dabar is not merely acoustic vibration or written symbols. It is **DYNAMIC EVENT-REALITY** - the ontological force that simultaneously _IS_ and _DOES_. **DABAR** represents the **movement of Being into manifestation**. When God "speaks" a Dabar, He is not transmitting information packets; He is releasing a force that creates, sustains, and transforms reality. A Dabar is not "about" something - it _is_ that something coming into being. It collapses the Western distinction between "word" (speech) and "deed" (action). Dabar is the **action of existence** rather than the description of it.
 
 #### Paleo-Hebrew Linguistics:
 

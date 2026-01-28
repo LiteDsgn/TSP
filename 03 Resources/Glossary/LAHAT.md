@@ -35,7 +35,7 @@ AUTHORITY (Lamed) REVEALED (Hey) in the TWISTING/SURROUNDING (Tet). The Fire tha
 
 #### My Insight:
 
-This is the mechanism of the **"Death"** (Mavet-transformation). The Lahat burns away the Havel (Vapor/Illusion) so that only Yesh (Substance) remains. The _Lahat_ is the "Heat" of the compost pile that rots the shell to feed the sprout.. You argue that we must pass through the sword to return to Eden. The sword kills the "False Self" (Ego) so the "True Self" (Christ in you) can live. It is the fire of the "Burning Bush" - it burns but does not consume the Divine element, only the dry wood of the ego. We do not "avoid" the Flaming Sword; we must pass **through** it.
+This is the mechanism of the **"Death"** (Mavet-transformation). The Lahat burns away the Havel (Vapor/Illusion) so that only Yesh (Substance) remains. The _Lahat_ is the "Heat" of the compost pile that rots the shell to feed the sprout.. We must pass through the sword to return to Eden. The sword kills the "False Self" (Ego) so the "True Self" (Christ in you) can live. It is the fire of the "Burning Bush" - it burns but does not consume the Divine element, only the dry wood of the ego. We do not "avoid" the Flaming Sword; we must pass **through** it.
 
 The Sword kills the **Ra** (The Head Seeing/Ego). It burns away the _Havel_ (Illusion of Separation). This is why the Bible says "Our God is a Consuming Fire." The Fire is only a threat to the dry wood of the Ego. To the _Gold_ (The Divine Nature/Zera), the Fire is purification. The _Lahat_ ensures that when the Seed returns to the Garden, it returns as **Refined Gold** (The Last Adam). It is the agent of **Shuv** (Return) by way of destruction.
 

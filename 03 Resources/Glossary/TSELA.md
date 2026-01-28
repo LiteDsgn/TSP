@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-TSELA** is not merely a rib bone but a **STRUCTURAL** **CHAMBER** or **SIDE**, a significant portion of the body, possibly referring to an entire side of the body. The same word is used for the **SIDE** **CHAMBERS** of the Temple (_1 Kings_ 6:5), suggesting this is architectural language about structure and support. **In the Yesh-Echad framework,** **TSELA** represents the **SUBSTANCE** **FROM** **WITHIN** from which the Ezer is formed. It proves that woman is not secondary creation from different material but **SAME** **SUBSTANCE** as man, taken from his own body during **TARDEMAH** (deep sleep/mini-death).
+TSELA** is not merely a rib bone but a **STRUCTURAL** **CHAMBER** or **SIDE**, a significant portion of the body, possibly referring to an entire side of the body. The same word is used for the **SIDE** **CHAMBERS** of the Temple (_1 Kings_ 6:5), suggesting this is architectural language about structure and support. **TSELA** represents the **SUBSTANCE** **FROM** **WITHIN** from which the Ezer is formed. It proves that woman is not secondary creation from different material but **SAME** **SUBSTANCE** as man, taken from his own body during **TARDEMAH** (deep sleep/mini-death).
 
 #### Paleo-Hebrew Linguistics:
 

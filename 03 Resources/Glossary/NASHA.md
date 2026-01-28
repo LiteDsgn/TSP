@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-NASHA** is not factual deception (believing a lie) but **CONSCIOUSNESS** **DISPLACEMENT**, the process of causing someone to **FORGET** their true position or connection to Source. **_It is the mechanism by which the Seed (Nun) is PRESSED/TRANSFORMED (Shin) AWAY FROM the SOURCE (Aleph)._** **In the Yesh-Echad framework,** **NASHA** represents the **DESIGNED** **AMNESIA** that allows the Seed to enter the soil experience. It is the shift from Theos-centric consciousness (God as Source, Self as Extension) to Ego-centric consciousness (Self as independent, God as external). This is not moral failure but **ONTOLOGICAL** **STAGE**, the necessary forgetting that makes the remembering (**ZAKAR**) meaningful.
+NASHA** is not factual deception (believing a lie) but **CONSCIOUSNESS** **DISPLACEMENT**, the process of causing someone to **FORGET** their true position or connection to Source. **_It is the mechanism by which the Seed (Nun) is PRESSED/TRANSFORMED (Shin) AWAY FROM the SOURCE (Aleph)._** **NASHA** represents the **DESIGNED** **AMNESIA** that allows the Seed to enter the soil experience. It is the shift from Theos-centric consciousness (God as Source, Self as Extension) to Ego-centric consciousness (Self as independent, God as external). This is not moral failure but **ONTOLOGICAL** **STAGE**, the necessary forgetting that makes the remembering (**ZAKAR**) meaningful.
 
 #### Paleo-Hebrew Linguistics:
 

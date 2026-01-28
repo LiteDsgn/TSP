@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-NEQEBAH** is not merely biological designation but represents the **RECEPTIVE**, **GESTATIONAL**, **WOMB-FUNCTION** of reality. Where **ZAKAR** (male) represents the **CUTTING**/**MARKING**/**REMEMBERING** function (the sword, the plow, the one who marks lineage), **NEQEBAH** represents the **CONTAINING**/**NURTURING**/**LIFE-BEARING** function (the vessel, the house, the one who gestates life). **In the Yesh-Echad framework,** **NEQEBAH** is the **RACHAMIM** (womb-love) principle, the protected chamber where the Seed is held, nurtured, and brought to birth. She is the **BAYIT** (house) where **LIFE** (Nun) is **REVEALED** (Hey) from within.
+NEQEBAH** is not merely biological designation but represents the **RECEPTIVE**, **GESTATIONAL**, **WOMB-FUNCTION** of reality. Where **ZAKAR** (male) represents the **CUTTING**/**MARKING**/**REMEMBERING** function (the sword, the plow, the one who marks lineage), **NEQEBAH** represents the **CONTAINING**/**NURTURING**/**LIFE-BEARING** function (the vessel, the house, the one who gestates life). **NEQEBAH** is the **RACHAMIM** (womb-love) principle, the protected chamber where the Seed is held, nurtured, and brought to birth. She is the **BAYIT** (house) where **LIFE** (Nun) is **REVEALED** (Hey) from within.
 
 #### Paleo-Hebrew Linguistics:
 

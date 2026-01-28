@@ -17,7 +17,7 @@ The noun form - "creation," "the created thing," typically understood as the phy
 
 #### Hebraic Meaning:
 
-BRIA is the **RESULT** of BARA - the state of **UNIFIED MULTIPLICITY**. The "House" in its filled state. The **visible extension** of the invisible Source. In Yesh-Echad framework, Creation is **the paraconsistent state** where the One (Echad) voluntarily subjects its Energy to the logic of **constraint** (Bet/House), generating a reality that **appears** autonomous while being composed entirely of Divine Substance.
+BRIA is the **RESULT** of BARA - the state of **UNIFIED MULTIPLICITY**. The "House" in its filled state. The **visible extension** of the invisible Source. Creation is **the paraconsistent state** where the One (Echad) voluntarily subjects its Energy to the logic of **constraint** (Bet/House), generating a reality that **appears** autonomous while being composed entirely of Divine Substance.
 
 #### The Picture:
 

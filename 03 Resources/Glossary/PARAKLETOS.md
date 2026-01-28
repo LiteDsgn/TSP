@@ -15,7 +15,7 @@ A Greek word meaning "Helper," "Advocate," "Comforter," "Counselor," or "Interce
 
 #### Hebraic Meaning:
 
-(through Hebraic lens):** **PARAKLETOS** is **THE** **ONE** **CALLED** **ALONGSIDE**, the advocate who stands **WITH** rather than **OVER**. It combines para (alongside, beside) and kletos (called, summoned). **In the Yesh-Echad framework,** the Parakletos is the **INTERNAL** **EZER**, the Spirit as the ultimate Guardian-Warrior who watches over the Seed during burial in the soil. While the **EXTERNAL** Ezer (Kenegdo, the woman) stood opposite Adam in Eden, the **INTERNAL** Ezer (Parakletos, the Spirit) dwells within during the germination process, maintaining the connection (Vav) to the Sanctuary (Chet) when all external supports are gone. Greek Linguistic Analysis:
+(through Hebraic lens):** **PARAKLETOS** is **THE** **ONE** **CALLED** **ALONGSIDE**, the advocate who stands **WITH** rather than **OVER**. It combines para (alongside, beside) and kletos (called, summoned). **The Parakletos is the **INTERNAL** **EZER**, the Spirit as the ultimate Guardian-Warrior who watches over the Seed during burial in the soil. While the **EXTERNAL** Ezer (Kenegdo, the woman) stood opposite Adam in Eden, the **INTERNAL** Ezer (Parakletos, the Spirit) dwells within during the germination process, maintaining the connection (Vav) to the Sanctuary (Chet) when all external supports are gone. Greek Linguistic Analysis:
 
 - Para (παρά): Alongside, Beside, Near, With
     

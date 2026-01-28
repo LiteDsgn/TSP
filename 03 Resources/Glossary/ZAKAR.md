@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-ZAKAR** is **SURGICAL** **REMEMBRANCE**, the act of cutting through amnesia to restore identity. **_It is not passive recollection but ACTIVE RECOVERY, using the ZAYIN (sword/plow) to penetrate the hard soil of forgetfulness and ANOINT (Kaph) the HEAD (Resh) with truth._** **In the Yesh-Echad framework,** **ZAKAR** is the **REVERSAL** **OF** **NASHA**, where **NASHA** displaced consciousness away from Source, **ZAKAR** restores consciousness **TO** Source. **_It is the remembering that awakens, the anointing that marks identity, the cutting that liberates._** The fact that **ZAKAR** means **BOTH** "remember" **AND** "male" is profoundly significant: the male is the one who **MARKS** lineage, who **CUTS** covenant, who **REMEMBERS** and passes on the Name.
+ZAKAR** is **SURGICAL** **REMEMBRANCE**, the act of cutting through amnesia to restore identity. **_It is not passive recollection but ACTIVE RECOVERY, using the ZAYIN (sword/plow) to penetrate the hard soil of forgetfulness and ANOINT (Kaph) the HEAD (Resh) with truth._** **ZAKAR** is the **REVERSAL** **OF** **NASHA**, where **NASHA** displaced consciousness away from Source, **ZAKAR** restores consciousness **TO** Source. **_It is the remembering that awakens, the anointing that marks identity, the cutting that liberates._** The fact that **ZAKAR** means **BOTH** "remember" **AND** "male" is profoundly significant: the male is the one who **MARKS** lineage, who **CUTS** covenant, who **REMEMBERS** and passes on the Name.
 
 #### Paleo-Hebrew Linguistics:
 

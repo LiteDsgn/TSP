@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-Kenegdo is **THE** **MIRROR** **IN** **THE** **DOORWAY**, the one who stands **OPPOSITE** (facing, confronting) yet **CORRESPONDING** (matching, suitable). It combines Ke (like, as), Neged (in front of, conspicuous, standing opposite), and O (him). **In the Yesh-Echad framework,** Kenegdo represents the **STRUCTURAL** **NECESSITY** of the "**OTHER**" for preventing **RA** (head-seeing-itself). A solitary consciousness can only reflect itself, creating the closed loop of ego-narcissism that leads to **NASHA** (forgetting Source). The Kenegdo breaks this loop by providing a **FACE-TO**-**FACE** encounter, forcing the "I" to recognize a "**YOU**," thus manifesting **ECHAD** (composite unity, the "You + I" structure of divine reality).
+Kenegdo is **THE** **MIRROR** **IN** **THE** **DOORWAY**, the one who stands **OPPOSITE** (facing, confronting) yet **CORRESPONDING** (matching, suitable). It combines Ke (like, as), Neged (in front of, conspicuous, standing opposite), and O (him). **KENEGDO** represents the **STRUCTURAL** **NECESSITY** of the "**OTHER**" for preventing **RA** (head-seeing-itself). A solitary consciousness can only reflect itself, creating the closed loop of ego-narcissism that leads to **NASHA** (forgetting Source). The Kenegdo breaks this loop by providing a **FACE-TO**-**FACE** encounter, forcing the "I" to recognize a "**YOU**," thus manifesting **ECHAD** (composite unity, the "You + I" structure of divine reality).
 
 #### Paleo-Hebrew Linguistics:
 

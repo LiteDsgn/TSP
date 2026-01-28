@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-Gevurah is **DIVINE** **STRENGTH** expressed as **SEVERITY**, **DISCIPLINE**, and **BOUNDARY-ENFORCEMENT**. It is not cruelty but the necessary firmness that ensures structural integrity. In Kabbalistic thought, Gevurah is the left hand of God, the aspect of judgment, restraint, and definition. While Chesed (right hand) gives freely and expands, Gevurah contains, limits, and refines. **In the Yesh-Echad framework,** Gevurah represents the **EXTERNAL** **PRESSURE** applied to crack the shell, the Keruvim function, the soil weight, the severity of the Law that reveals sin. **_It is the hammer that breaks the rock, the fire that burns away dross, the constriction (Tzar) that forces the Seed to cry out for expansion (Yasha)._**
+Gevurah is **DIVINE** **STRENGTH** expressed as **SEVERITY**, **DISCIPLINE**, and **BOUNDARY-ENFORCEMENT**. It is not cruelty but the necessary firmness that ensures structural integrity. In Kabbalistic thought, Gevurah is the left hand of God, the aspect of judgment, restraint, and definition. While Chesed (right hand) gives freely and expands, Gevurah contains, limits, and refines. **GEVURAH** represents the **EXTERNAL** **PRESSURE** applied to crack the shell, the Keruvim function, the soil weight, the severity of the Law that reveals sin. **_It is the hammer that breaks the rock, the fire that burns away dross, the constriction (Tzar) that forces the Seed to cry out for expansion (Yasha)._**
 
 #### Paleo-Hebrew Linguistics:
 

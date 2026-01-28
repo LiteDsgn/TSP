@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-NIGLEH** is the **REVEALEDDIMENSION** of reality, the movement of truth from the timeless realm (Olam/Eternity) into the historical realm (Time). **_It is not the CREATION of something new but the EXPOSURE of what was already present in the hidden depths (Nistar)._In the Yesh-Echad framework,NIGLEH** is the process of **PHANEROO**, making visible what was always real but previously concealed. **_It is the photograph developing in the darkroom, the image that was ALWAYS on the negative now becoming visible through the chemical process._** History is not God reacting but God **REVEALING**, progressively manifesting what was decreed before time began.
+NIGLEH** is the **REVEALEDDIMENSION** of reality, the movement of truth from the timeless realm (Olam/Eternity) into the historical realm (Time). **_It is not the CREATION of something new but the EXPOSURE of what was already present in the hidden depths (Nistar)._**NIGLEH** is the process of **PHANEROO**, making visible what was always real but previously concealed. **_It is the photograph developing in the darkroom, the image that was ALWAYS on the negative now becoming visible through the chemical process._** History is not God reacting but God **REVEALING**, progressively manifesting what was decreed before time began.
 
 #### Paleo-Hebrew Linguistics:
 

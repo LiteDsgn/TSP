@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-_Chesed_ is **COVENANT FAITHFULNESS** expressed through relentless kindness. It is not mere sentiment, but the **ACTIVE COMMITMENT** of the stronger party to sustain the weaker party regardless of merit or reciprocation. In the Yesh-Echad framework, _Chesed_ represents the sustaining force of the _Ruach_ (Spirit) working from within the Seed during burial, maintaining the connection to Source even when the shell experiences only pressure and darkness. It is God's refusal to let go - the mercy that flows _FROM_ covenant relationship, not _TO_ establish it.
+_Chesed_ is **COVENANT FAITHFULNESS** expressed through relentless kindness. It is not mere sentiment, but the **ACTIVE COMMITMENT** of the stronger party to sustain the weaker party regardless of merit or reciprocation. _Chesed_ represents the sustaining force of the _Ruach_ (Spirit) working from within the Seed during burial, maintaining the connection to Source even when the shell experiences only pressure and darkness. It is God's refusal to let go - the mercy that flows _FROM_ covenant relationship, not _TO_ establish it.
 
 #### Paleo-Hebrew Linguistics:
 

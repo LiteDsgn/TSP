@@ -56,7 +56,7 @@ John reveals the Logos as the **Son** - the "Speech" of the Father.:
 
 #### My Insight:
 
-In the Yesh-Echad framework, Logos reveals the **structure of the Trinity** embedded in the nature of communication itself.
+Logos reveals the **structure of the Trinity** embedded in the nature of communication itself.
 
 **The Triune Pattern of Logos:**
 

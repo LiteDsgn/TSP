@@ -17,7 +17,7 @@ aliases:
 
 #### Hebraic Meaning:
 
-Tehillah is not merely the ACT of praising God but the MANIFESTATION OF GOD'S GLORY through the vessel. It is PRAISE AS IDENTITY rather than praise as performance. In the Yesh-Echad framework, Tehillah represents the VISIBLE DISPLAY of Kavod (glory/weight) through the redeemed humanity. It is the state where the Creation BECOMES the declaration of the Creator's nature by embodying His presence. Tehillah is what happens when the vessel is so filled with Yesh (substance) and aligned with HaShem (the Name) that its very existence radiates Kavod. This is why Israel was designed to BE God's Tehillah (Jeremiah 13:11) - not just to sing songs, but to BECOME the living declaration of who He is.
+Tehillah is not merely the ACT of praising God but the MANIFESTATION OF GOD'S GLORY through the vessel. It is PRAISE AS IDENTITY rather than praise as performance. **TEHILLAH** represents the VISIBLE DISPLAY of Kavod (glory/weight) through the redeemed humanity. It is the state where the Creation BECOMES the declaration of the Creator's nature by embodying His presence. Tehillah is what happens when the vessel is so filled with Yesh (substance) and aligned with HaShem (the Name) that its very existence radiates Kavod. This is why Israel was designed to BE God's Tehillah (Jeremiah 13:11) - not just to sing songs, but to BECOME the living declaration of who He is.
 
 #### Paleo-Hebrew Linguistics:
 

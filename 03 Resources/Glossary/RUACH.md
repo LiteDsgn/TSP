@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-RUACH** is **THE** **MASTER** **CONNECTOR**, the invisible force that **HOOKS** (Vav) the consciousness to the **SANCTUARY** (Chet). It is both the **BREATH** **OF** **LIFE** (_Genesis_ 2:7) and the **WIND** **OF** **POWER** (_Acts_ 2:2). **In the Yesh-Echad framework,** **RUACH** is the **INTERNAL** **EZER**, the ultimate Guardian-Warrior who maintains the connection to Source during burial in the soil. While the external Ezer (Kenegdo) stood opposite Adam in Eden, the internal Ezer (Ruach) dwells within during the germination process, preventing total **NASHA** (forgetting) by continually performing **ZAKAR** (remembrance).
+RUACH** is **THE** **MASTER** **CONNECTOR**, the invisible force that **HOOKS** (Vav) the consciousness to the **SANCTUARY** (Chet). It is both the **BREATH** **OF** **LIFE** (_Genesis_ 2:7) and the **WIND** **OF** **POWER** (_Acts_ 2:2). **RUACH** is the **INTERNAL** **EZER**, the ultimate Guardian-Warrior who maintains the connection to Source during burial in the soil. While the external Ezer (Kenegdo) stood opposite Adam in Eden, the internal Ezer (Ruach) dwells within during the germination process, preventing total **NASHA** (forgetting) by continually performing **ZAKAR** (remembrance).
 
 #### Paleo-Hebrew Linguistics:
 

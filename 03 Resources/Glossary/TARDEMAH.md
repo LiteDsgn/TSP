@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-TARDEMAH** is not ordinary sleep but **MINI-MAVET**, a prophetic death-trance that anticipates the full death-and-resurrection pattern. **_It is the state of unconsciousness where GOD WORKS ALONE, where the vessel contributes NOTHING, where MONERGISM is demonstrated in its purest form._** **In the Yesh-Echad framework,** **TARDEMAH** represents the **DESIGNED** **PASSIVITY** necessary for transformation, the deep sleep during which God performs surgery, cuts the side, removes the rib, and creates the Ezer without any contribution from the one being operated upon.
+TARDEMAH** is not ordinary sleep but **MINI-MAVET**, a prophetic death-trance that anticipates the full death-and-resurrection pattern. **_It is the state of unconsciousness where GOD WORKS ALONE, where the vessel contributes NOTHING, where MONERGISM is demonstrated in its purest form._** **TARDEMAH** represents the **DESIGNED** **PASSIVITY** necessary for transformation, the deep sleep during which God performs surgery, cuts the side, removes the rib, and creates the Ezer without any contribution from the one being operated upon.
 
 #### Paleo-Hebrew Linguistics:
 

@@ -17,7 +17,7 @@ aliases:
 
 #### Hebraic Meaning:
 
-NISTAR** is the **HIDDENDIMENSION** of reality, the eternal, complete status of things as they exist in the mind of God (Olam). **_It is not "potential" (what MIGHT happen) but FINISHED REALITY that has not yet been perceived by the finite vessel._ In the Yesh-Echad framework,NISTAR** is the **ONTOLOGICALGROUND**, the decree established before time, the covenant cut in eternity, the names written in the Book of Life before the foundation of the world. **_It is the realm where the Seed and the Fruit exist SIMULTANEOUSLY because, in God's eternal NOW, the process is already complete._**
+NISTAR** is the **HIDDENDIMENSION** of reality, the eternal, complete status of things as they exist in the mind of God (Olam). **_It is not "potential" (what MIGHT happen) but FINISHED REALITY that has not yet been perceived by the finite vessel._ **NISTAR** is the **ONTOLOGICALGROUND**, the decree established before time, the covenant cut in eternity, the names written in the Book of Life before the foundation of the world. **_It is the realm where the Seed and the Fruit exist SIMULTANEOUSLY because, in God's eternal NOW, the process is already complete._**
 
 #### Paleo-Hebrew Linguistics:
 

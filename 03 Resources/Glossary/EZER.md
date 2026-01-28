@@ -17,7 +17,7 @@ tags:
 
 #### Hebraic Meaning:
 
-Ezer is not a subordinate assistant but a **GUARDIAN-WARRIOR** who watches over and protects. The word is used of God Himself throughout Scripture (_Psalm_ 121:1-2, "My help comes from the **LORD**"), indicating that it implies **STRENGTH**, **RESCUE**, and **PROTECTIVE** **POWER** rather than servitude. **In the Yesh-Echad framework,** Ezer represents the **ANTI-NASHA** **MECHANISM**, the presence that prevents the Head (Resh/Ego) from falling into **RA** (self-seeing, the closed loop of ego-consciousness). The Ezer provides the "**OTHER**" necessary for Echad (composite unity), the mirror that prevents solitary vapor (Havel) by creating the "You + I" structure of divine reality.
+Ezer is not a subordinate assistant but a **GUARDIAN-WARRIOR** who watches over and protects. The word is used of God Himself throughout Scripture (_Psalm_ 121:1-2, "My help comes from the **LORD**"), indicating that it implies **STRENGTH**, **RESCUE**, and **PROTECTIVE** **POWER** rather than servitude. **EZER** represents the **ANTI-NASHA** **MECHANISM**, the presence that prevents the Head (Resh/Ego) from falling into **RA** (self-seeing, the closed loop of ego-consciousness). The Ezer provides the "**OTHER**" necessary for Echad (composite unity), the mirror that prevents solitary vapor (Havel) by creating the "You + I" structure of divine reality.
 
 #### Paleo-Hebrew Linguistics:
 

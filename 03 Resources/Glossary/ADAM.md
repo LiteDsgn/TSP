@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: 2026-01-28 02:51:19
+updated: 2026-01-28 04:31:24
 type: concept
 aliases:
   - אָדָם
@@ -39,7 +39,7 @@ The STRENGTH/GOD (Aleph) entering the DOOR (Dalet) of BLOOD/CHAOS (Mem). Adam is
 #### My Insight:
 
 
-In your Yesh-Echad framework, Adam is the proof of Radical Non-Dualism. The Dualist view says God and Man are separate substances (Creator vs. Creature), You cannot separate the Aleph from the Dam without destroying the Adam. This refutes the idea that "Humanity" and "Divinity" are mutually exclusive; linguistically, humanity contains divinity as its defining prefix.
+Adam is the proof of Radical Non-Dualism. The Dualist view says God and Man are separate \substances (Creator vs. Creature), You cannot separate the Aleph from the Dam without destroying the Adam. This refutes the idea that "Humanity" and "Divinity" are mutually exclusive; linguistically, humanity contains divinity as its defining prefix.
 
 This validates **Paraconsistency**: How can something be Finite (Blood) and Infinite (God) simultaneously? The word _Adam_ holds this contradiction together. This validates **Monergism**: The "Human" does not exist independently to "co-operate" with God. The _Aleph_ provides the _Yesh_ (Substance), and the _Dam_ provides the form. If the _Aleph_ leaves, the _Dam_ returns to dust. Therefore, all human action is either the _Aleph_ acting (righteousness) or the _Dam_ acting alone (sin/vapor). The "Last Adam" (Christ) is not a new plan; He is the full realization of the definition of Adam - the _Aleph_ fully permeating the _Dam_ without restriction.
 
