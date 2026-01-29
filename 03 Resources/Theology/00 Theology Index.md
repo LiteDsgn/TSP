@@ -12,6 +12,7 @@ banner_icon: 🔖
 
 - [[2 Corinthians 1 - The God of All Comfort]]
 - [[2 Corinthians 10 - The Warfare of Architecture]]
+- [[2 Corinthians 11 - The Jealousy of God]]
 - [[2 Corinthians 2 - The Triumph, The Fragrance, and The Ministry of Life]]
 - [[2 Corinthians 3 - The Ministry of the New Covenant and the Veil Removed]]
 - [[2 Corinthians 4 - Treasure in Jars of Clay]]
@@ -50,6 +51,7 @@ banner_icon: 🔖
 - [[The Faith, that is Realization]]
 - [[The God of the Hallucination]]
 - [[The House of the Head A Manifesto on the Yesh-Echad Monoergetic Framework]]
+- [[The Jealousy of God]]
 - [[The Messianic Typology]]
 - [[The Name in the Blood Awakening from the Illusion of Separation]]
 - [[The Name in the Dust Awakening to the Eternal Plan]]

@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: 2026-01-28 02:51:20
+updated: 2026-01-29 14:09:59
 type: concept
 aliases:
   - ὄλεθρος
@@ -40,7 +40,7 @@ OLETHROS is crucial for understanding passages like 2 Thessalonians 1:9 ("eterna
 #### Scripture(s):
 
 - 1 Corinthians 5:5 - "...you are to deliver this man to [[SATAN|Satan]] for the destruction [olethros] of the flesh, so that his spirit may be saved in the day of the Lord"
-- 2 Thessalonians 1:9 - "They will suffer the punishment of eternal [[[AIONIOS|aionios]]] destruction [olethros], away from the presence of the Lord and from the glory of his might"
+- 2 Thessalonians 1:9 - "They will suffer the punishment of eternal ([[AIONIOS|aionios]]) destruction [olethros], away from the presence of the Lord and from the glory of his might"
 - 1 Thessalonians 5:3 - "While people are saying, 'There is peace and security,' then sudden destruction [olethros] will come upon them as labor pains come upon a pregnant woman, and they will not escape"
 - 1 Timothy 6:9 - "But those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin [olethros] and destruction [apoleia]"
 

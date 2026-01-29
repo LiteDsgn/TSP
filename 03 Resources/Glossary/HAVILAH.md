@@ -1,6 +1,6 @@
 ---
-created: 2026-01-22
-updated: 2026-01-22
+created: 2026-01-28 02:51:20
+updated: 2026-01-29 14:09:03
 type: concept
 aliases:
   - הֲוִילָה
@@ -41,7 +41,7 @@ HAVILAH is one of the most profound revelations in the four-rivers passage. Gene
 - Genesis 2:11-12 - "The name of the first is the [[PISHON|Pishon]]. It is the one that flowed around the whole land of Havilah, where there is gold. And the gold of that land is good; bdellium and onyx stone are there"
 - Genesis 10:7 - "The sons of [[CUSH|Cush]]: Seba, Havilah, Sabtah, Raamah, and Sabteca" (Havilah as descendant of [[CUSH|Cush]], connecting the lands of both rivers)
 - 1 Samuel 15:7 - "And Saul defeated the Amalekites from Havilah as far as Shur" (Havilah as actual territory)
-- Ecclesiastes 1:2 - "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity [[[HAVEL|havel]]]" (the vapor-quality that characterizes fallen existence)
+- Ecclesiastes 1:2 - "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity ([[HAVEL|havel]])" (the vapor-quality that characterizes fallen existence)
 - Acts 17:27-28 - "...that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, for 'In him we live and move and have our being'" (the gold hidden in apparent [[HAVEL|Havel]])
 
 #### Narrative Context:
